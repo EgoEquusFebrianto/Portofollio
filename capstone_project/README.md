@@ -13,7 +13,7 @@ Project ini menggunakan beberapa teknologi utama:
 
 | Teknologi       | Versi     | Fungsi              |
 |-----------------|-----------|---------------------|
-| Apache Spark    | 3.5.3     | Pemrosesan data skala besar|
+| Apache Spark    | 3.5.3     | Alat Pemrosesan data|
 | Hadoop          | 3.4.0     | Cluster eksekusi|
 | Jenkins         | 2.492.1   | CI/CD pipeline|
 | Confluent Kafka |           |Endpoint ETL|
