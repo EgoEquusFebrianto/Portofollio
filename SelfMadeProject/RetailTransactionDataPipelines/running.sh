@@ -1,0 +1,1 @@
+spark-submit --master yarn --deploy-mode client --files Settings/SparkConf.conf --py-files lib.zip --jars /home/kudadiri/.ivy2/jars/org.postgresql_postgresql-42.6.0.jar application.py yarn_env 172.25.0.1 5432 postgres diy3times storage1 retail_transaction

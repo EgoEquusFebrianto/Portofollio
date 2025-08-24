@@ -1,0 +1,54 @@
+TransactionID,Store,Category,Product,SalesBeforeDiscount,Discount,TransactionDate
+1,Store C,Clothing,Shirt,469.34,5,2025-08-01
+2,Store A,Electronics,TV,780.0,4,2025-08-02
+3,Store C,Clothing,Shirt,305.92,4,2025-08-03
+4,Store C,Beauty,Lotion,169.28,0,2025-08-04
+5,Store A,Clothing,Shoes,360.78,10,2025-08-05
+6,,Sports,Racket,245.1,5,2025-08-06
+7,Store C,Sports,Ball,936.73,2,2025-08-07
+8,Store B,Sports,Shoes Sport,827.31,4,2025-08-08
+9,Store C,Sports,Ball,670.06,0,2025-08-09
+10,Store C,Beauty,Lotion,884.31,0,2025-08-10
+11,Store C,,Sofa,823.3,5,2025-08-11
+12,Store C,Electronics,Headphones,267.91,4,2025-08-12
+13,Store A,Sports,Shoes Sport,903.3,10,2025-08-13
+14,Store C,Clothing,Shoes,585.41,4,2025-08-14
+15,Store B,Sports,Racket,826.7,5,2025-08-15
+16,Store A,Clothing,,906.48,5,2025-08-16
+17,Store B,Clothing,Shoes,386.2,4,2025-08-17
+18,Store B,Sports,Racket,199.05,5,2025-08-18
+19,Store B,Beauty,Makeup,305.14,4,2025-08-19
+20,Store B,Clothing,Shoes,484.4,2,2025-08-20
+21,Store A,Clothing,Shirt,836.21,4,2025-08-21
+22,Store A,Sports,Shoes Sport,874.66,4,2025-08-22
+23,Store B,Clothing,Shirt,106.26,5,2025-08-23
+24,Store B,Clothing,Shoes,559.67,5,2025-08-24
+25,Store A,Sports,Racket,475.67,0,2025-08-25
+26,Store A,Sports,Shoes Sport,-200.0,0,2025-08-26
+27,Store A,Electronics,Laptop,207.88,2,2025-08-27
+28,Store C,Beauty,Perfume,403.85,0,2025-08-28
+29,Store C,Beauty,Lotion,948.62,4,2025-08-29
+30,Store C,Clothing,Shoes,390.88,5,2025-08-30
+31,Store B,Beauty,Makeup,566.91,999,2025-08-31
+32,Store C,Clothing,Pants,732.72,0,2025-09-01
+33,Store B,Electronics,TV,427.27,2,2025-09-02
+34,Store B,Sports,Shoes Sport,974.6,2,2025-09-03
+35,Store C,Sports,Ball,966.2,4,2025-09-04
+36,Store B,Sports,Shoes Sport,326.6,5,2025-09-05
+37,Store C,Beauty,Makeup,547.52,2,2025-09-06
+38,Store C,Electronics,Phone,370.79,0,2025-09-07
+39,Store A,Beauty,Lotion,356.36,5,2025-09-08
+40,Store C,Beauty,Perfume,133.2,5,2025-09-09
+41,Store A,Electronics,TV,648.61,0,2025-09-10
+42,Store C,Electronics,TV,552.41,2,2025-09-11
+43,Store C,Electronics,Headphones,146.33,0,2025-09-12
+44,Store A,Electronics,TV,350.78,5,2025-09-13
+45,Store A,Sports,Ball,917.44,10,2025-09-14
+46,Store C,Home,Sofa,315.61,10,2025-09-15
+47,Store B,Home,Table,230.41,4,2025-09-16
+48,Store A,Electronics,Laptop,540.51,0,2025-09-17
+49,Store B,Home,Chair,987.09,0,2025-09-18
+50,Store B,Home,Chair,317.85,4,2025-09-19
+4,Store C,Beauty,Lotion,169.28,0,2025-08-04
+8,Store B,Sports,Shoes Sport,827.31,4,2025-08-08
+11,Store C,,Sofa,823.3,5,2025-08-11

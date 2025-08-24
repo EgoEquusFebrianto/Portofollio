@@ -3,3 +3,4 @@ capstone_project/.idea/*
 capstone_project/lib/__pycache__/*
 capstone_project/spark-warehouse
 capstone_project/metastore_db
+temp
