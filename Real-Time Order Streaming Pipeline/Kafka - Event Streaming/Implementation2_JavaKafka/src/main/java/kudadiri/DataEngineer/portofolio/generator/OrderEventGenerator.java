@@ -50,6 +50,64 @@ public class OrderEventGenerator {
             "Books & Stationery", new int[]{20_000, 500_000}
     );
 
+    // ---------- Primary Key Helper  ----------
+    private static final Map<String, Map<String, String>> PRIMARY_KEYS = Map.of(
+            "Electronics", Map.of(
+                    "Smartphone", "PROD_ELEC_01",
+                    "Laptop", "PROD_ELEC_02",
+                    "Wireless Headphones", "PROD_ELEC_03",
+                    "Smart Watch", "PROD_ELEC_04",
+                    "Tablet", "PROD_ELEC_05",
+                    "Bluetooth Speaker", "PROD_ELEC_06",
+                    "Gaming Console", "PROD_ELEC_07"
+            ),
+            "Fashion", Map.of(
+                    "T-Shirt", "PROD_FASH_01",
+                    "Jeans", "PROD_FASH_02",
+                    "Running Shoes", "PROD_FASH_03",
+                    "Winter Jacket", "PROD_FASH_04",
+                    "Sunglasses", "PROD_FASH_05",
+                    "Backpack", "PROD_FASH_06",
+                    "Dress", "PROD_FASH_07"
+            ),
+            "Sports", Map.of(
+                    "Basketball", "PROD_SPORT_01",
+                    "Yoga Mat", "PROD_SPORT_02",
+                    "Running Shoes", "PROD_SPORT_03",
+                    "Dumbbells Set", "PROD_SPORT_04",
+                    "Tennis Racket", "PROD_SPORT_05",
+                    "Swimming Goggles", "PROD_SPORT_06",
+                    "Fitness Tracker", "PROD_SPORT_07"
+            ),
+            "Home", Map.of(
+                    "Coffee Maker", "PROD_HOME_01",
+                    "Air Fryer", "PROD_HOME_02",
+                    "Vacuum Cleaner", "PROD_HOME_03",
+                    "Bedding Set", "PROD_HOME_04",
+                    "Kitchen Knife Set", "PROD_HOME_05",
+                    "LED Lamp", "PROD_HOME_06",
+                    "Blender", "PROD_HOME_07"
+            ),
+            "Books & Stationery", Map.of(
+                    "Novel", "PROD_BOOK_01",
+                    "Notebook", "PROD_BOOK_02",
+                    "Fountain Pen", "PROD_BOOK_03",
+                    "Desk Organizer", "PROD_BOOK_04",
+                    "Sketchbook", "PROD_BOOK_05",
+                    "Bookmark Set", "PROD_BOOK_06",
+                    "Sticky Notes", "PROD_BOOK_07"
+            )
+    );
+
+    // ---------- Categories References Helper  ----------
+    private static final Map<String, String> CATEGORIES = Map.of(
+            "Electronics", "CATEGORY01",
+            "Fashion", "CATEGORY02",
+            "Sports", "CATEGORY03",
+            "Home", "CATEGORY04",
+            "Books & Stationery", "CATEGORY05"
+    );
+
     public static OrderEvent generate() {
 
         String timeStamp = DateTimeFormatter.ISO_INSTANT.format(Instant.now());
@@ -86,11 +144,12 @@ public class OrderEventGenerator {
             String productName = randomProductName(category);
             int qty = ThreadLocalRandom.current().nextInt(1, 6);
             double unitPrice = randomPrice(category);
+            String productId = PRIMARY_KEYS.get(category).get(productName);
 
             Item item = new Item();
-            item.setProductId("SKU-" + uniqueNumber + "-" + i);
+            item.setProductId(productId);
             item.setProductName(productName);
-            item.setCategory(category);
+            item.setCategory(CATEGORIES.get(category));
             item.setQty(qty);
             item.setUnitPrice(unitPrice);
 

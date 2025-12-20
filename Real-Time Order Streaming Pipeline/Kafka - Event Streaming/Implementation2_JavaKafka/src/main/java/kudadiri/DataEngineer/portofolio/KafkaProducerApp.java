@@ -78,6 +78,15 @@ public class KafkaProducerApp {
                 log.info("Committing transaction...");
                 producer.commitTransaction();
                 log.info("Transaction-[{}] committed successfully. All messages sent exactly once.", section);
+
+                // delay 2.5 second
+                try {
+                    Thread.sleep(2500);
+                } catch (InterruptedException e) {
+                    log.info("Interrupted by USER. Shutting down gracefully...");
+                    Thread.currentThread().interrupt();
+                    break;
+                }
             }
         } catch (Exception e) {
             log.error("Transaction Failed. Reason: {}", e.getMessage());
@@ -86,8 +95,8 @@ public class KafkaProducerApp {
             log.error("Transaction aborted. No partial data will be written.");
         } finally {
             log.info("Closing producer...");
-            producer.close();
             log.info("Producer closed gracefully");
+            producer.close();
         }
     }
 }

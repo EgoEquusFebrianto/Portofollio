@@ -1,0 +1,1808 @@
+2025-12-17 14:29:10 [main] INFO  org.apache.spark.SparkContext - Running Spark version 3.5.3
+2025-12-17 14:29:10 [main] INFO  org.apache.spark.SparkContext - OS info Windows 11, 10.0, amd64
+2025-12-17 14:29:10 [main] INFO  org.apache.spark.SparkContext - Java version 11.0.26
+2025-12-17 14:29:11 [main] INFO  org.apache.spark.SparkContext - Submitted application: Spark App
+2025-12-17 14:29:16 [main] INFO  org.apache.spark.executor.Executor - Starting executor ID driver on host Kudadiri7204
+2025-12-17 14:29:16 [main] INFO  org.apache.spark.executor.Executor - OS info Windows 11, 10.0, amd64
+2025-12-17 14:29:16 [main] INFO  org.apache.spark.executor.Executor - Java version 11.0.26
+2025-12-17 14:29:16 [main] INFO  org.apache.spark.executor.Executor - Starting executor with user classpath (userClassPathFirst = false): ''
+2025-12-17 14:29:16 [main] INFO  org.apache.spark.executor.Executor - Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@502a4156 for default.
+2025-12-17 14:29:23 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Invoking stop() from shutdown hook
+2025-12-17 14:29:23 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - SparkContext is stopping with exitCode 0.
+2025-12-17 14:29:23 [dispatcher-event-loop-0] INFO  org.apache.spark.scheduler.OutputCommitCoordinator$OutputCommitCoordinatorEndpoint - OutputCommitCoordinator stopped!
+2025-12-17 14:29:23 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Successfully stopped SparkContext
+2025-12-17 14:41:28 [main] INFO  org.apache.spark.SparkContext - Running Spark version 3.5.3
+2025-12-17 14:41:28 [main] INFO  org.apache.spark.SparkContext - OS info Windows 11, 10.0, amd64
+2025-12-17 14:41:28 [main] INFO  org.apache.spark.SparkContext - Java version 11.0.26
+2025-12-17 14:41:29 [main] INFO  org.apache.spark.SparkContext - Submitted application: Spark App
+2025-12-17 14:41:33 [main] INFO  org.apache.spark.executor.Executor - Starting executor ID driver on host Kudadiri7204
+2025-12-17 14:41:33 [main] INFO  org.apache.spark.executor.Executor - OS info Windows 11, 10.0, amd64
+2025-12-17 14:41:33 [main] INFO  org.apache.spark.executor.Executor - Java version 11.0.26
+2025-12-17 14:41:33 [main] INFO  org.apache.spark.executor.Executor - Starting executor with user classpath (userClassPathFirst = false): ''
+2025-12-17 14:41:33 [main] INFO  org.apache.spark.executor.Executor - Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@502a4156 for default.
+2025-12-17 14:41:39 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Invoking stop() from shutdown hook
+2025-12-17 14:41:39 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - SparkContext is stopping with exitCode 0.
+2025-12-17 14:41:39 [dispatcher-event-loop-0] INFO  org.apache.spark.scheduler.OutputCommitCoordinator$OutputCommitCoordinatorEndpoint - OutputCommitCoordinator stopped!
+2025-12-17 14:41:39 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Successfully stopped SparkContext
+2025-12-17 14:56:31 [main] INFO  org.apache.spark.SparkContext - Running Spark version 3.5.3
+2025-12-17 14:56:31 [main] INFO  org.apache.spark.SparkContext - OS info Windows 11, 10.0, amd64
+2025-12-17 14:56:31 [main] INFO  org.apache.spark.SparkContext - Java version 11.0.26
+2025-12-17 14:56:32 [main] INFO  org.apache.spark.SparkContext - Submitted application: Spark App
+2025-12-17 14:56:38 [main] INFO  org.apache.spark.executor.Executor - Starting executor ID driver on host Kudadiri7204
+2025-12-17 14:56:38 [main] INFO  org.apache.spark.executor.Executor - OS info Windows 11, 10.0, amd64
+2025-12-17 14:56:38 [main] INFO  org.apache.spark.executor.Executor - Java version 11.0.26
+2025-12-17 14:56:38 [main] INFO  org.apache.spark.executor.Executor - Starting executor with user classpath (userClassPathFirst = false): ''
+2025-12-17 14:56:38 [main] INFO  org.apache.spark.executor.Executor - Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@5416f8db for default.
+2025-12-17 14:56:44 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Invoking stop() from shutdown hook
+2025-12-17 14:56:44 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - SparkContext is stopping with exitCode 0.
+2025-12-17 14:56:44 [dispatcher-event-loop-0] INFO  org.apache.spark.scheduler.OutputCommitCoordinator$OutputCommitCoordinatorEndpoint - OutputCommitCoordinator stopped!
+2025-12-17 14:56:44 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Successfully stopped SparkContext
+2025-12-17 15:03:07 [main] INFO  org.apache.spark.SparkContext - Running Spark version 3.5.3
+2025-12-17 15:03:07 [main] INFO  org.apache.spark.SparkContext - OS info Windows 11, 10.0, amd64
+2025-12-17 15:03:07 [main] INFO  org.apache.spark.SparkContext - Java version 11.0.26
+2025-12-17 15:03:08 [main] INFO  org.apache.spark.SparkContext - Submitted application: Spark App
+2025-12-17 15:03:13 [main] INFO  org.apache.spark.executor.Executor - Starting executor ID driver on host Kudadiri7204
+2025-12-17 15:03:13 [main] INFO  org.apache.spark.executor.Executor - OS info Windows 11, 10.0, amd64
+2025-12-17 15:03:13 [main] INFO  org.apache.spark.executor.Executor - Java version 11.0.26
+2025-12-17 15:03:13 [main] INFO  org.apache.spark.executor.Executor - Starting executor with user classpath (userClassPathFirst = false): ''
+2025-12-17 15:03:13 [main] INFO  org.apache.spark.executor.Executor - Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@5416f8db for default.
+2025-12-17 15:03:18 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Invoking stop() from shutdown hook
+2025-12-17 15:03:18 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - SparkContext is stopping with exitCode 0.
+2025-12-17 15:03:18 [dispatcher-event-loop-0] INFO  org.apache.spark.scheduler.OutputCommitCoordinator$OutputCommitCoordinatorEndpoint - OutputCommitCoordinator stopped!
+2025-12-17 15:03:18 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Successfully stopped SparkContext
+2025-12-17 15:13:56 [main] INFO  org.apache.spark.SparkContext - Running Spark version 3.5.3
+2025-12-17 15:13:56 [main] INFO  org.apache.spark.SparkContext - OS info Windows 11, 10.0, amd64
+2025-12-17 15:13:56 [main] INFO  org.apache.spark.SparkContext - Java version 11.0.26
+2025-12-17 15:13:57 [main] INFO  org.apache.spark.SparkContext - Submitted application: Spark App
+2025-12-17 15:14:02 [main] INFO  org.apache.spark.executor.Executor - Starting executor ID driver on host Kudadiri7204
+2025-12-17 15:14:02 [main] INFO  org.apache.spark.executor.Executor - OS info Windows 11, 10.0, amd64
+2025-12-17 15:14:02 [main] INFO  org.apache.spark.executor.Executor - Java version 11.0.26
+2025-12-17 15:14:02 [main] INFO  org.apache.spark.executor.Executor - Starting executor with user classpath (userClassPathFirst = false): ''
+2025-12-17 15:14:02 [main] INFO  org.apache.spark.executor.Executor - Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@1319bc2a for default.
+2025-12-17 15:14:08 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Invoking stop() from shutdown hook
+2025-12-17 15:14:08 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - SparkContext is stopping with exitCode 0.
+2025-12-17 15:14:08 [dispatcher-event-loop-0] INFO  org.apache.spark.scheduler.OutputCommitCoordinator$OutputCommitCoordinatorEndpoint - OutputCommitCoordinator stopped!
+2025-12-17 15:14:08 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Successfully stopped SparkContext
+2025-12-17 15:33:12 [main] INFO  org.apache.spark.SparkContext - Running Spark version 3.5.3
+2025-12-17 15:33:12 [main] INFO  org.apache.spark.SparkContext - OS info Windows 11, 10.0, amd64
+2025-12-17 15:33:12 [main] INFO  org.apache.spark.SparkContext - Java version 11.0.26
+2025-12-17 15:33:13 [main] INFO  org.apache.spark.SparkContext - Submitted application: Spark App
+2025-12-17 15:33:18 [main] INFO  org.apache.spark.executor.Executor - Starting executor ID driver on host Kudadiri7204
+2025-12-17 15:33:18 [main] INFO  org.apache.spark.executor.Executor - OS info Windows 11, 10.0, amd64
+2025-12-17 15:33:18 [main] INFO  org.apache.spark.executor.Executor - Java version 11.0.26
+2025-12-17 15:33:18 [main] INFO  org.apache.spark.executor.Executor - Starting executor with user classpath (userClassPathFirst = false): ''
+2025-12-17 15:33:18 [main] INFO  org.apache.spark.executor.Executor - Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@6ff0b1cc for default.
+2025-12-17 15:33:25 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Invoking stop() from shutdown hook
+2025-12-17 15:33:25 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - SparkContext is stopping with exitCode 0.
+2025-12-17 15:33:25 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.OutputCommitCoordinator$OutputCommitCoordinatorEndpoint - OutputCommitCoordinator stopped!
+2025-12-17 15:33:25 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Successfully stopped SparkContext
+2025-12-17 15:38:00 [main] INFO  org.apache.spark.SparkContext - Running Spark version 3.5.3
+2025-12-17 15:38:00 [main] INFO  org.apache.spark.SparkContext - OS info Windows 11, 10.0, amd64
+2025-12-17 15:38:00 [main] INFO  org.apache.spark.SparkContext - Java version 11.0.26
+2025-12-17 15:38:01 [main] INFO  org.apache.spark.SparkContext - Submitted application: Spark App
+2025-12-17 15:38:06 [main] INFO  org.apache.spark.executor.Executor - Starting executor ID driver on host Kudadiri7204
+2025-12-17 15:38:06 [main] INFO  org.apache.spark.executor.Executor - OS info Windows 11, 10.0, amd64
+2025-12-17 15:38:06 [main] INFO  org.apache.spark.executor.Executor - Java version 11.0.26
+2025-12-17 15:38:06 [main] INFO  org.apache.spark.executor.Executor - Starting executor with user classpath (userClassPathFirst = false): ''
+2025-12-17 15:38:06 [main] INFO  org.apache.spark.executor.Executor - Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@6ff0b1cc for default.
+2025-12-17 15:38:13 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Invoking stop() from shutdown hook
+2025-12-17 15:38:13 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - SparkContext is stopping with exitCode 0.
+2025-12-17 15:38:13 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.OutputCommitCoordinator$OutputCommitCoordinatorEndpoint - OutputCommitCoordinator stopped!
+2025-12-17 15:38:13 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Successfully stopped SparkContext
+2025-12-17 15:46:07 [main] INFO  org.apache.spark.SparkContext - Running Spark version 3.5.3
+2025-12-17 15:46:07 [main] INFO  org.apache.spark.SparkContext - OS info Windows 11, 10.0, amd64
+2025-12-17 15:46:07 [main] INFO  org.apache.spark.SparkContext - Java version 11.0.26
+2025-12-17 15:46:08 [main] INFO  org.apache.spark.SparkContext - Submitted application: Spark App
+2025-12-17 15:46:13 [main] INFO  org.apache.spark.executor.Executor - Starting executor ID driver on host Kudadiri7204
+2025-12-17 15:46:13 [main] INFO  org.apache.spark.executor.Executor - OS info Windows 11, 10.0, amd64
+2025-12-17 15:46:13 [main] INFO  org.apache.spark.executor.Executor - Java version 11.0.26
+2025-12-17 15:46:13 [main] INFO  org.apache.spark.executor.Executor - Starting executor with user classpath (userClassPathFirst = false): ''
+2025-12-17 15:46:13 [main] INFO  org.apache.spark.executor.Executor - Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@3e1fd62b for default.
+2025-12-17 15:46:25 [stream execution thread for [id = 254a8ae9-0138-4c9d-9227-5cbcf8f62a37, runId = efea2092-f0c2-4bc8-adbb-63620c885c92]] INFO  org.apache.spark.SparkContext - Starting job: start at SparkProcessingApp.scala:25
+2025-12-17 15:46:25 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Got job 0 (start at SparkProcessingApp.scala:25) with 1 output partitions
+2025-12-17 15:46:25 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Final stage: ResultStage 0 (start at SparkProcessingApp.scala:25)
+2025-12-17 15:46:25 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Parents of final stage: List()
+2025-12-17 15:46:25 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Missing parents: List()
+2025-12-17 15:46:25 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting ResultStage 0 (ParallelCollectionRDD[3] at start at SparkProcessingApp.scala:25), which has no missing parents
+2025-12-17 15:46:25 [dag-scheduler-event-loop] INFO  org.apache.spark.SparkContext - Created broadcast 0 from broadcast at DAGScheduler.scala:1585
+2025-12-17 15:46:25 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting 1 missing tasks from ResultStage 0 (ParallelCollectionRDD[3] at start at SparkProcessingApp.scala:25) (first 15 tasks are for partitions Vector(0))
+2025-12-17 15:46:25 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Adding task set 0.0 with 1 tasks resource profile 0
+2025-12-17 15:46:25 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 0.0 in stage 0.0 (TID 0) (Kudadiri7204, executor driver, partition 0, PROCESS_LOCAL, 9164 bytes) 
+2025-12-17 15:46:25 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Running task 0.0 in stage 0.0 (TID 0)
+2025-12-17 15:46:25 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Finished task 0.0 in stage 0.0 (TID 0). 1341 bytes result sent to driver
+2025-12-17 15:46:25 [task-result-getter-0] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 0.0 in stage 0.0 (TID 0) in 279 ms on Kudadiri7204 (executor driver) (1/1)
+2025-12-17 15:46:25 [task-result-getter-0] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Removed TaskSet 0.0, whose tasks have all completed, from pool 
+2025-12-17 15:46:25 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - ResultStage 0 (start at SparkProcessingApp.scala:25) finished in 0.684 s
+2025-12-17 15:46:25 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 is finished. Cancelling potential speculative or zombie tasks for this job
+2025-12-17 15:46:25 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Killing all running tasks in stage 0: Stage finished
+2025-12-17 15:46:26 [stream execution thread for [id = 254a8ae9-0138-4c9d-9227-5cbcf8f62a37, runId = efea2092-f0c2-4bc8-adbb-63620c885c92]] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 finished: start at SparkProcessingApp.scala:25, took 0.823232 s
+2025-12-17 15:47:15 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Invoking stop() from shutdown hook
+2025-12-17 15:47:15 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - SparkContext is stopping with exitCode 0.
+2025-12-17 15:47:15 [dispatcher-event-loop-0] INFO  org.apache.spark.scheduler.OutputCommitCoordinator$OutputCommitCoordinatorEndpoint - OutputCommitCoordinator stopped!
+2025-12-17 15:47:15 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Successfully stopped SparkContext
+2025-12-19 13:39:53 [main] INFO  org.apache.spark.SparkContext - Running Spark version 3.5.3
+2025-12-19 13:39:53 [main] INFO  org.apache.spark.SparkContext - OS info Windows 11, 10.0, amd64
+2025-12-19 13:39:53 [main] INFO  org.apache.spark.SparkContext - Java version 11.0.26
+2025-12-19 13:39:55 [main] INFO  org.apache.spark.SparkContext - Submitted application: Spark App
+2025-12-19 13:39:59 [main] INFO  org.apache.spark.executor.Executor - Starting executor ID driver on host Kudadiri7204.mshome.net
+2025-12-19 13:39:59 [main] INFO  org.apache.spark.executor.Executor - OS info Windows 11, 10.0, amd64
+2025-12-19 13:39:59 [main] INFO  org.apache.spark.executor.Executor - Java version 11.0.26
+2025-12-19 13:39:59 [main] INFO  org.apache.spark.executor.Executor - Starting executor with user classpath (userClassPathFirst = false): ''
+2025-12-19 13:39:59 [main] INFO  org.apache.spark.executor.Executor - Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@7134b8a7 for default.
+2025-12-19 13:40:06 [stream execution thread for [id = f46ee38e-3d32-47b4-bb91-c998b12320ab, runId = 45a94509-f7b5-4f43-8a59-84b612e6201c]] INFO  org.apache.kafka.clients.admin.AdminClientConfig - AdminClientConfig values: 
+	auto.include.jmx.reporter = true
+	bootstrap.servers = [172.25.5.7:9092]
+	client.dns.lookup = use_all_dns_ips
+	client.id = 
+	connections.max.idle.ms = 300000
+	default.api.timeout.ms = 60000
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.connect.timeout.ms = null
+	sasl.login.read.timeout.ms = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.login.retry.backoff.max.ms = 10000
+	sasl.login.retry.backoff.ms = 100
+	sasl.mechanism = GSSAPI
+	sasl.oauthbearer.clock.skew.seconds = 30
+	sasl.oauthbearer.expected.audience = null
+	sasl.oauthbearer.expected.issuer = null
+	sasl.oauthbearer.jwks.endpoint.refresh.ms = 3600000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.max.ms = 10000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.ms = 100
+	sasl.oauthbearer.jwks.endpoint.url = null
+	sasl.oauthbearer.scope.claim.name = scope
+	sasl.oauthbearer.sub.claim.name = sub
+	sasl.oauthbearer.token.endpoint.url = null
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+
+2025-12-19 13:40:07 [stream execution thread for [id = f46ee38e-3d32-47b4-bb91-c998b12320ab, runId = 45a94509-f7b5-4f43-8a59-84b612e6201c]] WARN  org.apache.kafka.clients.admin.AdminClientConfig - These configurations '[key.deserializer, value.deserializer, enable.auto.commit, max.poll.records, auto.offset.reset]' were supplied but are not used yet.
+2025-12-19 13:40:11 [stream execution thread for [id = f46ee38e-3d32-47b4-bb91-c998b12320ab, runId = 45a94509-f7b5-4f43-8a59-84b612e6201c]] INFO  org.apache.spark.SparkContext - Starting job: start at SparkProcessingApp.scala:26
+2025-12-19 13:40:11 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Got job 0 (start at SparkProcessingApp.scala:26) with 1 output partitions
+2025-12-19 13:40:11 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Final stage: ResultStage 0 (start at SparkProcessingApp.scala:26)
+2025-12-19 13:40:11 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Parents of final stage: List()
+2025-12-19 13:40:11 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Missing parents: List()
+2025-12-19 13:40:11 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting ResultStage 0 (ParallelCollectionRDD[3] at start at SparkProcessingApp.scala:26), which has no missing parents
+2025-12-19 13:40:11 [dag-scheduler-event-loop] INFO  org.apache.spark.SparkContext - Created broadcast 0 from broadcast at DAGScheduler.scala:1585
+2025-12-19 13:40:11 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting 1 missing tasks from ResultStage 0 (ParallelCollectionRDD[3] at start at SparkProcessingApp.scala:26) (first 15 tasks are for partitions Vector(0))
+2025-12-19 13:40:11 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Adding task set 0.0 with 1 tasks resource profile 0
+2025-12-19 13:40:11 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 0.0 in stage 0.0 (TID 0) (Kudadiri7204.mshome.net, executor driver, partition 0, PROCESS_LOCAL, 9164 bytes) 
+2025-12-19 13:40:11 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Running task 0.0 in stage 0.0 (TID 0)
+2025-12-19 13:40:11 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Finished task 0.0 in stage 0.0 (TID 0). 1341 bytes result sent to driver
+2025-12-19 13:40:11 [task-result-getter-0] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 0.0 in stage 0.0 (TID 0) in 287 ms on Kudadiri7204.mshome.net (executor driver) (1/1)
+2025-12-19 13:40:11 [task-result-getter-0] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Removed TaskSet 0.0, whose tasks have all completed, from pool 
+2025-12-19 13:40:11 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - ResultStage 0 (start at SparkProcessingApp.scala:26) finished in 0.623 s
+2025-12-19 13:40:11 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 is finished. Cancelling potential speculative or zombie tasks for this job
+2025-12-19 13:40:11 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Killing all running tasks in stage 0: Stage finished
+2025-12-19 13:40:12 [stream execution thread for [id = f46ee38e-3d32-47b4-bb91-c998b12320ab, runId = 45a94509-f7b5-4f43-8a59-84b612e6201c]] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 finished: start at SparkProcessingApp.scala:26, took 0.722133 s
+2025-12-19 13:40:18 [stream execution thread for [id = f46ee38e-3d32-47b4-bb91-c998b12320ab, runId = 45a94509-f7b5-4f43-8a59-84b612e6201c]] INFO  org.apache.spark.SparkContext - Starting job: start at SparkProcessingApp.scala:26
+2025-12-19 13:40:18 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Got job 1 (start at SparkProcessingApp.scala:26) with 2 output partitions
+2025-12-19 13:40:18 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Final stage: ResultStage 1 (start at SparkProcessingApp.scala:26)
+2025-12-19 13:40:18 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Parents of final stage: List()
+2025-12-19 13:40:18 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Missing parents: List()
+2025-12-19 13:40:18 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting ResultStage 1 (MapPartitionsRDD[6] at start at SparkProcessingApp.scala:26), which has no missing parents
+2025-12-19 13:40:19 [dag-scheduler-event-loop] INFO  org.apache.spark.SparkContext - Created broadcast 1 from broadcast at DAGScheduler.scala:1585
+2025-12-19 13:40:19 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting 2 missing tasks from ResultStage 1 (MapPartitionsRDD[6] at start at SparkProcessingApp.scala:26) (first 15 tasks are for partitions Vector(0, 1))
+2025-12-19 13:40:19 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Adding task set 1.0 with 2 tasks resource profile 0
+2025-12-19 13:40:19 [dispatcher-event-loop-0] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 0.0 in stage 1.0 (TID 1) (Kudadiri7204.mshome.net, executor driver, partition 0, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 13:40:19 [dispatcher-event-loop-0] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 1.0 in stage 1.0 (TID 2) (Kudadiri7204.mshome.net, executor driver, partition 1, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 13:40:19 [Executor task launch worker for task 0.0 in stage 1.0 (TID 1)] INFO  org.apache.spark.executor.Executor - Running task 0.0 in stage 1.0 (TID 1)
+2025-12-19 13:40:19 [Executor task launch worker for task 1.0 in stage 1.0 (TID 2)] INFO  org.apache.spark.executor.Executor - Running task 1.0 in stage 1.0 (TID 2)
+2025-12-19 13:40:20 [Executor task launch worker for task 0.0 in stage 1.0 (TID 1)] INFO  org.apache.spark.executor.Executor - Finished task 0.0 in stage 1.0 (TID 1). 1982 bytes result sent to driver
+2025-12-19 13:40:20 [Executor task launch worker for task 1.0 in stage 1.0 (TID 2)] INFO  org.apache.spark.executor.Executor - Finished task 1.0 in stage 1.0 (TID 2). 1982 bytes result sent to driver
+2025-12-19 13:40:20 [task-result-getter-1] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 0.0 in stage 1.0 (TID 1) in 1425 ms on Kudadiri7204.mshome.net (executor driver) (1/2)
+2025-12-19 13:40:20 [task-result-getter-2] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 1.0 in stage 1.0 (TID 2) in 1420 ms on Kudadiri7204.mshome.net (executor driver) (2/2)
+2025-12-19 13:40:20 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - ResultStage 1 (start at SparkProcessingApp.scala:26) finished in 1.452 s
+2025-12-19 13:40:20 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Job 1 is finished. Cancelling potential speculative or zombie tasks for this job
+2025-12-19 13:40:20 [task-result-getter-2] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Removed TaskSet 1.0, whose tasks have all completed, from pool 
+2025-12-19 13:40:20 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Killing all running tasks in stage 1: Stage finished
+2025-12-19 13:40:20 [stream execution thread for [id = f46ee38e-3d32-47b4-bb91-c998b12320ab, runId = 45a94509-f7b5-4f43-8a59-84b612e6201c]] INFO  org.apache.spark.scheduler.DAGScheduler - Job 1 finished: start at SparkProcessingApp.scala:26, took 1.465382 s
+2025-12-19 13:41:13 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Invoking stop() from shutdown hook
+2025-12-19 13:41:13 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - SparkContext is stopping with exitCode 0.
+2025-12-19 13:41:13 [dispatcher-event-loop-0] INFO  org.apache.spark.scheduler.OutputCommitCoordinator$OutputCommitCoordinatorEndpoint - OutputCommitCoordinator stopped!
+2025-12-19 13:41:13 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Successfully stopped SparkContext
+2025-12-19 13:45:36 [main] INFO  org.apache.spark.SparkContext - Running Spark version 3.5.3
+2025-12-19 13:45:36 [main] INFO  org.apache.spark.SparkContext - OS info Windows 11, 10.0, amd64
+2025-12-19 13:45:36 [main] INFO  org.apache.spark.SparkContext - Java version 11.0.26
+2025-12-19 13:45:36 [main] INFO  org.apache.spark.SparkContext - Submitted application: Spark App
+2025-12-19 13:45:41 [main] INFO  org.apache.spark.executor.Executor - Starting executor ID driver on host Kudadiri7204.mshome.net
+2025-12-19 13:45:41 [main] INFO  org.apache.spark.executor.Executor - OS info Windows 11, 10.0, amd64
+2025-12-19 13:45:41 [main] INFO  org.apache.spark.executor.Executor - Java version 11.0.26
+2025-12-19 13:45:42 [main] INFO  org.apache.spark.executor.Executor - Starting executor with user classpath (userClassPathFirst = false): ''
+2025-12-19 13:45:42 [main] INFO  org.apache.spark.executor.Executor - Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@6968bcec for default.
+2025-12-19 13:45:50 [stream execution thread for [id = a9ede5f5-b977-4819-bcbd-cdde6592427a, runId = b5308cd1-3a78-4021-816e-be00aa11cf47]] INFO  org.apache.kafka.clients.admin.AdminClientConfig - AdminClientConfig values: 
+	auto.include.jmx.reporter = true
+	bootstrap.servers = [172.25.5.7:9092]
+	client.dns.lookup = use_all_dns_ips
+	client.id = 
+	connections.max.idle.ms = 300000
+	default.api.timeout.ms = 60000
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.connect.timeout.ms = null
+	sasl.login.read.timeout.ms = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.login.retry.backoff.max.ms = 10000
+	sasl.login.retry.backoff.ms = 100
+	sasl.mechanism = GSSAPI
+	sasl.oauthbearer.clock.skew.seconds = 30
+	sasl.oauthbearer.expected.audience = null
+	sasl.oauthbearer.expected.issuer = null
+	sasl.oauthbearer.jwks.endpoint.refresh.ms = 3600000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.max.ms = 10000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.ms = 100
+	sasl.oauthbearer.jwks.endpoint.url = null
+	sasl.oauthbearer.scope.claim.name = scope
+	sasl.oauthbearer.sub.claim.name = sub
+	sasl.oauthbearer.token.endpoint.url = null
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+
+2025-12-19 13:45:51 [stream execution thread for [id = a9ede5f5-b977-4819-bcbd-cdde6592427a, runId = b5308cd1-3a78-4021-816e-be00aa11cf47]] WARN  org.apache.kafka.clients.admin.AdminClientConfig - These configurations '[key.deserializer, value.deserializer, enable.auto.commit, max.poll.records, auto.offset.reset]' were supplied but are not used yet.
+2025-12-19 13:45:55 [stream execution thread for [id = a9ede5f5-b977-4819-bcbd-cdde6592427a, runId = b5308cd1-3a78-4021-816e-be00aa11cf47]] INFO  org.apache.spark.SparkContext - Starting job: start at SparkProcessingApp.scala:29
+2025-12-19 13:45:55 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Got job 0 (start at SparkProcessingApp.scala:29) with 1 output partitions
+2025-12-19 13:45:55 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Final stage: ResultStage 0 (start at SparkProcessingApp.scala:29)
+2025-12-19 13:45:55 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Parents of final stage: List()
+2025-12-19 13:45:55 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Missing parents: List()
+2025-12-19 13:45:55 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting ResultStage 0 (ParallelCollectionRDD[3] at start at SparkProcessingApp.scala:29), which has no missing parents
+2025-12-19 13:45:56 [dag-scheduler-event-loop] INFO  org.apache.spark.SparkContext - Created broadcast 0 from broadcast at DAGScheduler.scala:1585
+2025-12-19 13:45:56 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting 1 missing tasks from ResultStage 0 (ParallelCollectionRDD[3] at start at SparkProcessingApp.scala:29) (first 15 tasks are for partitions Vector(0))
+2025-12-19 13:45:56 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Adding task set 0.0 with 1 tasks resource profile 0
+2025-12-19 13:45:56 [dispatcher-event-loop-0] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 0.0 in stage 0.0 (TID 0) (Kudadiri7204.mshome.net, executor driver, partition 0, PROCESS_LOCAL, 9164 bytes) 
+2025-12-19 13:45:56 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Running task 0.0 in stage 0.0 (TID 0)
+2025-12-19 13:45:56 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Finished task 0.0 in stage 0.0 (TID 0). 1341 bytes result sent to driver
+2025-12-19 13:45:56 [task-result-getter-0] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 0.0 in stage 0.0 (TID 0) in 283 ms on Kudadiri7204.mshome.net (executor driver) (1/1)
+2025-12-19 13:45:56 [task-result-getter-0] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Removed TaskSet 0.0, whose tasks have all completed, from pool 
+2025-12-19 13:45:56 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - ResultStage 0 (start at SparkProcessingApp.scala:29) finished in 0.731 s
+2025-12-19 13:45:56 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 is finished. Cancelling potential speculative or zombie tasks for this job
+2025-12-19 13:45:56 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Killing all running tasks in stage 0: Stage finished
+2025-12-19 13:45:56 [stream execution thread for [id = a9ede5f5-b977-4819-bcbd-cdde6592427a, runId = b5308cd1-3a78-4021-816e-be00aa11cf47]] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 finished: start at SparkProcessingApp.scala:29, took 0.830209 s
+2025-12-19 13:46:13 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Invoking stop() from shutdown hook
+2025-12-19 13:46:13 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - SparkContext is stopping with exitCode 0.
+2025-12-19 13:46:13 [dispatcher-event-loop-0] INFO  org.apache.spark.scheduler.OutputCommitCoordinator$OutputCommitCoordinatorEndpoint - OutputCommitCoordinator stopped!
+2025-12-19 13:46:13 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Successfully stopped SparkContext
+2025-12-19 13:50:55 [main] INFO  org.apache.spark.SparkContext - Running Spark version 3.5.3
+2025-12-19 13:50:55 [main] INFO  org.apache.spark.SparkContext - OS info Windows 11, 10.0, amd64
+2025-12-19 13:50:55 [main] INFO  org.apache.spark.SparkContext - Java version 11.0.26
+2025-12-19 13:50:56 [main] INFO  org.apache.spark.SparkContext - Submitted application: Spark App
+2025-12-19 13:51:01 [main] INFO  org.apache.spark.executor.Executor - Starting executor ID driver on host Kudadiri7204.mshome.net
+2025-12-19 13:51:01 [main] INFO  org.apache.spark.executor.Executor - OS info Windows 11, 10.0, amd64
+2025-12-19 13:51:01 [main] INFO  org.apache.spark.executor.Executor - Java version 11.0.26
+2025-12-19 13:51:01 [main] INFO  org.apache.spark.executor.Executor - Starting executor with user classpath (userClassPathFirst = false): ''
+2025-12-19 13:51:01 [main] INFO  org.apache.spark.executor.Executor - Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@7134b8a7 for default.
+2025-12-19 13:51:11 [stream execution thread for [id = 343d2de9-1d86-44ac-afd4-eeb6de3ff92e, runId = 4da7be64-4d7b-4152-af34-670de7695894]] INFO  org.apache.kafka.clients.admin.AdminClientConfig - AdminClientConfig values: 
+	auto.include.jmx.reporter = true
+	bootstrap.servers = [172.25.5.7:9092]
+	client.dns.lookup = use_all_dns_ips
+	client.id = 
+	connections.max.idle.ms = 300000
+	default.api.timeout.ms = 60000
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.connect.timeout.ms = null
+	sasl.login.read.timeout.ms = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.login.retry.backoff.max.ms = 10000
+	sasl.login.retry.backoff.ms = 100
+	sasl.mechanism = GSSAPI
+	sasl.oauthbearer.clock.skew.seconds = 30
+	sasl.oauthbearer.expected.audience = null
+	sasl.oauthbearer.expected.issuer = null
+	sasl.oauthbearer.jwks.endpoint.refresh.ms = 3600000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.max.ms = 10000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.ms = 100
+	sasl.oauthbearer.jwks.endpoint.url = null
+	sasl.oauthbearer.scope.claim.name = scope
+	sasl.oauthbearer.sub.claim.name = sub
+	sasl.oauthbearer.token.endpoint.url = null
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+
+2025-12-19 13:51:11 [stream execution thread for [id = 343d2de9-1d86-44ac-afd4-eeb6de3ff92e, runId = 4da7be64-4d7b-4152-af34-670de7695894]] WARN  org.apache.kafka.clients.admin.AdminClientConfig - These configurations '[key.deserializer, value.deserializer, enable.auto.commit, max.poll.records, auto.offset.reset]' were supplied but are not used yet.
+2025-12-19 13:51:16 [stream execution thread for [id = 343d2de9-1d86-44ac-afd4-eeb6de3ff92e, runId = 4da7be64-4d7b-4152-af34-670de7695894]] INFO  org.apache.spark.SparkContext - Starting job: start at SparkProcessingApp.scala:30
+2025-12-19 13:51:16 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Got job 0 (start at SparkProcessingApp.scala:30) with 3 output partitions
+2025-12-19 13:51:16 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Final stage: ResultStage 0 (start at SparkProcessingApp.scala:30)
+2025-12-19 13:51:16 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Parents of final stage: List()
+2025-12-19 13:51:16 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Missing parents: List()
+2025-12-19 13:51:16 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting ResultStage 0 (MapPartitionsRDD[2] at start at SparkProcessingApp.scala:30), which has no missing parents
+2025-12-19 13:51:16 [dag-scheduler-event-loop] INFO  org.apache.spark.SparkContext - Created broadcast 0 from broadcast at DAGScheduler.scala:1585
+2025-12-19 13:51:16 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting 3 missing tasks from ResultStage 0 (MapPartitionsRDD[2] at start at SparkProcessingApp.scala:30) (first 15 tasks are for partitions Vector(0, 1, 2))
+2025-12-19 13:51:16 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Adding task set 0.0 with 3 tasks resource profile 0
+2025-12-19 13:51:16 [dispatcher-event-loop-2] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 0.0 in stage 0.0 (TID 0) (Kudadiri7204.mshome.net, executor driver, partition 0, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 13:51:17 [dispatcher-event-loop-2] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 1.0 in stage 0.0 (TID 1) (Kudadiri7204.mshome.net, executor driver, partition 1, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 13:51:17 [dispatcher-event-loop-2] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 2.0 in stage 0.0 (TID 2) (Kudadiri7204.mshome.net, executor driver, partition 2, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 13:51:17 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Running task 0.0 in stage 0.0 (TID 0)
+2025-12-19 13:51:17 [Executor task launch worker for task 1.0 in stage 0.0 (TID 1)] INFO  org.apache.spark.executor.Executor - Running task 1.0 in stage 0.0 (TID 1)
+2025-12-19 13:51:17 [Executor task launch worker for task 2.0 in stage 0.0 (TID 2)] INFO  org.apache.spark.executor.Executor - Running task 2.0 in stage 0.0 (TID 2)
+2025-12-19 13:51:19 [Executor task launch worker for task 1.0 in stage 0.0 (TID 1)] INFO  org.apache.spark.executor.Executor - Finished task 1.0 in stage 0.0 (TID 1). 310224 bytes result sent to driver
+2025-12-19 13:51:19 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Finished task 0.0 in stage 0.0 (TID 0). 270512 bytes result sent to driver
+2025-12-19 13:51:19 [Executor task launch worker for task 2.0 in stage 0.0 (TID 2)] INFO  org.apache.spark.executor.Executor - Finished task 2.0 in stage 0.0 (TID 2). 298208 bytes result sent to driver
+2025-12-19 13:51:19 [task-result-getter-0] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 1.0 in stage 0.0 (TID 1) in 2216 ms on Kudadiri7204.mshome.net (executor driver) (1/3)
+2025-12-19 13:51:19 [task-result-getter-1] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 0.0 in stage 0.0 (TID 0) in 2364 ms on Kudadiri7204.mshome.net (executor driver) (2/3)
+2025-12-19 13:51:19 [task-result-getter-2] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 2.0 in stage 0.0 (TID 2) in 2335 ms on Kudadiri7204.mshome.net (executor driver) (3/3)
+2025-12-19 13:51:19 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - ResultStage 0 (start at SparkProcessingApp.scala:30) finished in 2.774 s
+2025-12-19 13:51:19 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 is finished. Cancelling potential speculative or zombie tasks for this job
+2025-12-19 13:51:19 [task-result-getter-2] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Removed TaskSet 0.0, whose tasks have all completed, from pool 
+2025-12-19 13:51:19 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Killing all running tasks in stage 0: Stage finished
+2025-12-19 13:51:19 [stream execution thread for [id = 343d2de9-1d86-44ac-afd4-eeb6de3ff92e, runId = 4da7be64-4d7b-4152-af34-670de7695894]] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 finished: start at SparkProcessingApp.scala:30, took 2.898778 s
+2025-12-19 13:53:04 [stream execution thread for [id = 343d2de9-1d86-44ac-afd4-eeb6de3ff92e, runId = 4da7be64-4d7b-4152-af34-670de7695894]] INFO  org.apache.spark.SparkContext - Starting job: start at SparkProcessingApp.scala:30
+2025-12-19 13:53:04 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Got job 1 (start at SparkProcessingApp.scala:30) with 2 output partitions
+2025-12-19 13:53:04 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Final stage: ResultStage 1 (start at SparkProcessingApp.scala:30)
+2025-12-19 13:53:04 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Parents of final stage: List()
+2025-12-19 13:53:04 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Missing parents: List()
+2025-12-19 13:53:04 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting ResultStage 1 (MapPartitionsRDD[5] at start at SparkProcessingApp.scala:30), which has no missing parents
+2025-12-19 13:53:04 [dag-scheduler-event-loop] INFO  org.apache.spark.SparkContext - Created broadcast 1 from broadcast at DAGScheduler.scala:1585
+2025-12-19 13:53:04 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting 2 missing tasks from ResultStage 1 (MapPartitionsRDD[5] at start at SparkProcessingApp.scala:30) (first 15 tasks are for partitions Vector(0, 1))
+2025-12-19 13:53:04 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Adding task set 1.0 with 2 tasks resource profile 0
+2025-12-19 13:53:04 [dispatcher-event-loop-0] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 0.0 in stage 1.0 (TID 3) (Kudadiri7204.mshome.net, executor driver, partition 0, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 13:53:04 [dispatcher-event-loop-0] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 1.0 in stage 1.0 (TID 4) (Kudadiri7204.mshome.net, executor driver, partition 1, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 13:53:04 [Executor task launch worker for task 0.0 in stage 1.0 (TID 3)] INFO  org.apache.spark.executor.Executor - Running task 0.0 in stage 1.0 (TID 3)
+2025-12-19 13:53:04 [Executor task launch worker for task 1.0 in stage 1.0 (TID 4)] INFO  org.apache.spark.executor.Executor - Running task 1.0 in stage 1.0 (TID 4)
+2025-12-19 13:53:05 [Executor task launch worker for task 1.0 in stage 1.0 (TID 4)] INFO  org.apache.spark.executor.Executor - Finished task 1.0 in stage 1.0 (TID 4). 3771 bytes result sent to driver
+2025-12-19 13:53:05 [Executor task launch worker for task 0.0 in stage 1.0 (TID 3)] INFO  org.apache.spark.executor.Executor - Finished task 0.0 in stage 1.0 (TID 3). 3886 bytes result sent to driver
+2025-12-19 13:53:05 [task-result-getter-0] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 0.0 in stage 1.0 (TID 3) in 168 ms on Kudadiri7204.mshome.net (executor driver) (1/2)
+2025-12-19 13:53:05 [task-result-getter-3] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 1.0 in stage 1.0 (TID 4) in 229 ms on Kudadiri7204.mshome.net (executor driver) (2/2)
+2025-12-19 13:53:05 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - ResultStage 1 (start at SparkProcessingApp.scala:30) finished in 0.291 s
+2025-12-19 13:53:05 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Job 1 is finished. Cancelling potential speculative or zombie tasks for this job
+2025-12-19 13:53:05 [task-result-getter-3] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Removed TaskSet 1.0, whose tasks have all completed, from pool 
+2025-12-19 13:53:05 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Killing all running tasks in stage 1: Stage finished
+2025-12-19 13:53:05 [stream execution thread for [id = 343d2de9-1d86-44ac-afd4-eeb6de3ff92e, runId = 4da7be64-4d7b-4152-af34-670de7695894]] INFO  org.apache.spark.scheduler.DAGScheduler - Job 1 finished: start at SparkProcessingApp.scala:30, took 0.322873 s
+2025-12-19 13:53:08 [stream execution thread for [id = 343d2de9-1d86-44ac-afd4-eeb6de3ff92e, runId = 4da7be64-4d7b-4152-af34-670de7695894]] INFO  org.apache.spark.SparkContext - Starting job: start at SparkProcessingApp.scala:30
+2025-12-19 13:53:08 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Got job 2 (start at SparkProcessingApp.scala:30) with 3 output partitions
+2025-12-19 13:53:08 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Final stage: ResultStage 2 (start at SparkProcessingApp.scala:30)
+2025-12-19 13:53:08 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Parents of final stage: List()
+2025-12-19 13:53:08 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Missing parents: List()
+2025-12-19 13:53:08 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting ResultStage 2 (MapPartitionsRDD[8] at start at SparkProcessingApp.scala:30), which has no missing parents
+2025-12-19 13:53:08 [dag-scheduler-event-loop] INFO  org.apache.spark.SparkContext - Created broadcast 2 from broadcast at DAGScheduler.scala:1585
+2025-12-19 13:53:08 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting 3 missing tasks from ResultStage 2 (MapPartitionsRDD[8] at start at SparkProcessingApp.scala:30) (first 15 tasks are for partitions Vector(0, 1, 2))
+2025-12-19 13:53:08 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Adding task set 2.0 with 3 tasks resource profile 0
+2025-12-19 13:53:08 [dispatcher-event-loop-2] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 0.0 in stage 2.0 (TID 5) (Kudadiri7204.mshome.net, executor driver, partition 0, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 13:53:08 [dispatcher-event-loop-2] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 1.0 in stage 2.0 (TID 6) (Kudadiri7204.mshome.net, executor driver, partition 1, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 13:53:08 [dispatcher-event-loop-2] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 2.0 in stage 2.0 (TID 7) (Kudadiri7204.mshome.net, executor driver, partition 2, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 13:53:08 [Executor task launch worker for task 0.0 in stage 2.0 (TID 5)] INFO  org.apache.spark.executor.Executor - Running task 0.0 in stage 2.0 (TID 5)
+2025-12-19 13:53:08 [Executor task launch worker for task 1.0 in stage 2.0 (TID 6)] INFO  org.apache.spark.executor.Executor - Running task 1.0 in stage 2.0 (TID 6)
+2025-12-19 13:53:09 [Executor task launch worker for task 2.0 in stage 2.0 (TID 7)] INFO  org.apache.spark.executor.Executor - Running task 2.0 in stage 2.0 (TID 7)
+2025-12-19 13:53:09 [Executor task launch worker for task 0.0 in stage 2.0 (TID 5)] INFO  org.apache.spark.executor.Executor - Finished task 0.0 in stage 2.0 (TID 5). 252419 bytes result sent to driver
+2025-12-19 13:53:09 [task-result-getter-1] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 0.0 in stage 2.0 (TID 5) in 151 ms on Kudadiri7204.mshome.net (executor driver) (1/3)
+2025-12-19 13:53:09 [Executor task launch worker for task 1.0 in stage 2.0 (TID 6)] INFO  org.apache.spark.executor.Executor - Finished task 1.0 in stage 2.0 (TID 6). 263439 bytes result sent to driver
+2025-12-19 13:53:09 [task-result-getter-2] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 1.0 in stage 2.0 (TID 6) in 188 ms on Kudadiri7204.mshome.net (executor driver) (2/3)
+2025-12-19 13:53:09 [Executor task launch worker for task 2.0 in stage 2.0 (TID 7)] INFO  org.apache.spark.executor.Executor - Finished task 2.0 in stage 2.0 (TID 7). 245624 bytes result sent to driver
+2025-12-19 13:53:09 [task-result-getter-0] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 2.0 in stage 2.0 (TID 7) in 221 ms on Kudadiri7204.mshome.net (executor driver) (3/3)
+2025-12-19 13:53:09 [task-result-getter-0] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Removed TaskSet 2.0, whose tasks have all completed, from pool 
+2025-12-19 13:53:09 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - ResultStage 2 (start at SparkProcessingApp.scala:30) finished in 0.257 s
+2025-12-19 13:53:09 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Job 2 is finished. Cancelling potential speculative or zombie tasks for this job
+2025-12-19 13:53:09 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Killing all running tasks in stage 2: Stage finished
+2025-12-19 13:53:09 [stream execution thread for [id = 343d2de9-1d86-44ac-afd4-eeb6de3ff92e, runId = 4da7be64-4d7b-4152-af34-670de7695894]] INFO  org.apache.spark.scheduler.DAGScheduler - Job 2 finished: start at SparkProcessingApp.scala:30, took 0.272317 s
+2025-12-19 13:53:11 [stream execution thread for [id = 343d2de9-1d86-44ac-afd4-eeb6de3ff92e, runId = 4da7be64-4d7b-4152-af34-670de7695894]] INFO  org.apache.spark.SparkContext - Starting job: start at SparkProcessingApp.scala:30
+2025-12-19 13:53:11 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Got job 3 (start at SparkProcessingApp.scala:30) with 3 output partitions
+2025-12-19 13:53:11 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Final stage: ResultStage 3 (start at SparkProcessingApp.scala:30)
+2025-12-19 13:53:11 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Parents of final stage: List()
+2025-12-19 13:53:11 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Missing parents: List()
+2025-12-19 13:53:11 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting ResultStage 3 (MapPartitionsRDD[11] at start at SparkProcessingApp.scala:30), which has no missing parents
+2025-12-19 13:53:11 [dag-scheduler-event-loop] INFO  org.apache.spark.SparkContext - Created broadcast 3 from broadcast at DAGScheduler.scala:1585
+2025-12-19 13:53:11 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting 3 missing tasks from ResultStage 3 (MapPartitionsRDD[11] at start at SparkProcessingApp.scala:30) (first 15 tasks are for partitions Vector(0, 1, 2))
+2025-12-19 13:53:11 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Adding task set 3.0 with 3 tasks resource profile 0
+2025-12-19 13:53:11 [dispatcher-event-loop-0] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 0.0 in stage 3.0 (TID 8) (Kudadiri7204.mshome.net, executor driver, partition 0, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 13:53:11 [dispatcher-event-loop-0] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 1.0 in stage 3.0 (TID 9) (Kudadiri7204.mshome.net, executor driver, partition 1, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 13:53:11 [dispatcher-event-loop-0] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 2.0 in stage 3.0 (TID 10) (Kudadiri7204.mshome.net, executor driver, partition 2, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 13:53:11 [Executor task launch worker for task 0.0 in stage 3.0 (TID 8)] INFO  org.apache.spark.executor.Executor - Running task 0.0 in stage 3.0 (TID 8)
+2025-12-19 13:53:11 [Executor task launch worker for task 2.0 in stage 3.0 (TID 10)] INFO  org.apache.spark.executor.Executor - Running task 2.0 in stage 3.0 (TID 10)
+2025-12-19 13:53:11 [Executor task launch worker for task 1.0 in stage 3.0 (TID 9)] INFO  org.apache.spark.executor.Executor - Running task 1.0 in stage 3.0 (TID 9)
+2025-12-19 13:53:11 [Executor task launch worker for task 0.0 in stage 3.0 (TID 8)] INFO  org.apache.spark.executor.Executor - Finished task 0.0 in stage 3.0 (TID 8). 188696 bytes result sent to driver
+2025-12-19 13:53:11 [Executor task launch worker for task 2.0 in stage 3.0 (TID 10)] INFO  org.apache.spark.executor.Executor - Finished task 2.0 in stage 3.0 (TID 10). 219390 bytes result sent to driver
+2025-12-19 13:53:11 [Executor task launch worker for task 1.0 in stage 3.0 (TID 9)] INFO  org.apache.spark.executor.Executor - Finished task 1.0 in stage 3.0 (TID 9). 212044 bytes result sent to driver
+2025-12-19 13:53:11 [task-result-getter-3] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 0.0 in stage 3.0 (TID 8) in 128 ms on Kudadiri7204.mshome.net (executor driver) (1/3)
+2025-12-19 13:53:11 [task-result-getter-1] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 2.0 in stage 3.0 (TID 10) in 126 ms on Kudadiri7204.mshome.net (executor driver) (2/3)
+2025-12-19 13:53:11 [task-result-getter-1] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 1.0 in stage 3.0 (TID 9) in 129 ms on Kudadiri7204.mshome.net (executor driver) (3/3)
+2025-12-19 13:53:11 [task-result-getter-1] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Removed TaskSet 3.0, whose tasks have all completed, from pool 
+2025-12-19 13:53:11 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - ResultStage 3 (start at SparkProcessingApp.scala:30) finished in 0.152 s
+2025-12-19 13:53:11 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Job 3 is finished. Cancelling potential speculative or zombie tasks for this job
+2025-12-19 13:53:11 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Killing all running tasks in stage 3: Stage finished
+2025-12-19 13:53:11 [stream execution thread for [id = 343d2de9-1d86-44ac-afd4-eeb6de3ff92e, runId = 4da7be64-4d7b-4152-af34-670de7695894]] INFO  org.apache.spark.scheduler.DAGScheduler - Job 3 finished: start at SparkProcessingApp.scala:30, took 0.166291 s
+2025-12-19 13:53:14 [stream execution thread for [id = 343d2de9-1d86-44ac-afd4-eeb6de3ff92e, runId = 4da7be64-4d7b-4152-af34-670de7695894]] INFO  org.apache.spark.SparkContext - Starting job: start at SparkProcessingApp.scala:30
+2025-12-19 13:53:14 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Got job 4 (start at SparkProcessingApp.scala:30) with 3 output partitions
+2025-12-19 13:53:14 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Final stage: ResultStage 4 (start at SparkProcessingApp.scala:30)
+2025-12-19 13:53:14 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Parents of final stage: List()
+2025-12-19 13:53:14 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Missing parents: List()
+2025-12-19 13:53:14 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting ResultStage 4 (MapPartitionsRDD[14] at start at SparkProcessingApp.scala:30), which has no missing parents
+2025-12-19 13:53:14 [dag-scheduler-event-loop] INFO  org.apache.spark.SparkContext - Created broadcast 4 from broadcast at DAGScheduler.scala:1585
+2025-12-19 13:53:14 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting 3 missing tasks from ResultStage 4 (MapPartitionsRDD[14] at start at SparkProcessingApp.scala:30) (first 15 tasks are for partitions Vector(0, 1, 2))
+2025-12-19 13:53:14 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Adding task set 4.0 with 3 tasks resource profile 0
+2025-12-19 13:53:14 [dispatcher-event-loop-2] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 0.0 in stage 4.0 (TID 11) (Kudadiri7204.mshome.net, executor driver, partition 0, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 13:53:14 [dispatcher-event-loop-2] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 1.0 in stage 4.0 (TID 12) (Kudadiri7204.mshome.net, executor driver, partition 1, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 13:53:14 [dispatcher-event-loop-2] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 2.0 in stage 4.0 (TID 13) (Kudadiri7204.mshome.net, executor driver, partition 2, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 13:53:14 [Executor task launch worker for task 0.0 in stage 4.0 (TID 11)] INFO  org.apache.spark.executor.Executor - Running task 0.0 in stage 4.0 (TID 11)
+2025-12-19 13:53:14 [Executor task launch worker for task 1.0 in stage 4.0 (TID 12)] INFO  org.apache.spark.executor.Executor - Running task 1.0 in stage 4.0 (TID 12)
+2025-12-19 13:53:14 [Executor task launch worker for task 2.0 in stage 4.0 (TID 13)] INFO  org.apache.spark.executor.Executor - Running task 2.0 in stage 4.0 (TID 13)
+2025-12-19 13:53:15 [Executor task launch worker for task 0.0 in stage 4.0 (TID 11)] INFO  org.apache.spark.executor.Executor - Finished task 0.0 in stage 4.0 (TID 11). 238720 bytes result sent to driver
+2025-12-19 13:53:15 [task-result-getter-0] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 0.0 in stage 4.0 (TID 11) in 575 ms on Kudadiri7204.mshome.net (executor driver) (1/3)
+2025-12-19 13:53:15 [Executor task launch worker for task 2.0 in stage 4.0 (TID 13)] INFO  org.apache.spark.executor.Executor - Finished task 2.0 in stage 4.0 (TID 13). 226202 bytes result sent to driver
+2025-12-19 13:53:15 [task-result-getter-3] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 2.0 in stage 4.0 (TID 13) in 644 ms on Kudadiri7204.mshome.net (executor driver) (2/3)
+2025-12-19 13:53:15 [Executor task launch worker for task 1.0 in stage 4.0 (TID 12)] INFO  org.apache.spark.executor.Executor - Finished task 1.0 in stage 4.0 (TID 12). 199622 bytes result sent to driver
+2025-12-19 13:53:15 [task-result-getter-2] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 1.0 in stage 4.0 (TID 12) in 861 ms on Kudadiri7204.mshome.net (executor driver) (3/3)
+2025-12-19 13:53:15 [task-result-getter-2] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Removed TaskSet 4.0, whose tasks have all completed, from pool 
+2025-12-19 13:53:15 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - ResultStage 4 (start at SparkProcessingApp.scala:30) finished in 0.887 s
+2025-12-19 13:53:15 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Job 4 is finished. Cancelling potential speculative or zombie tasks for this job
+2025-12-19 13:53:15 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Killing all running tasks in stage 4: Stage finished
+2025-12-19 13:53:15 [stream execution thread for [id = 343d2de9-1d86-44ac-afd4-eeb6de3ff92e, runId = 4da7be64-4d7b-4152-af34-670de7695894]] INFO  org.apache.spark.scheduler.DAGScheduler - Job 4 finished: start at SparkProcessingApp.scala:30, took 0.908314 s
+2025-12-19 13:53:16 [stream execution thread for [id = 343d2de9-1d86-44ac-afd4-eeb6de3ff92e, runId = 4da7be64-4d7b-4152-af34-670de7695894]] INFO  org.apache.spark.SparkContext - Starting job: start at SparkProcessingApp.scala:30
+2025-12-19 13:53:16 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Got job 5 (start at SparkProcessingApp.scala:30) with 3 output partitions
+2025-12-19 13:53:16 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Final stage: ResultStage 5 (start at SparkProcessingApp.scala:30)
+2025-12-19 13:53:16 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Parents of final stage: List()
+2025-12-19 13:53:16 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Missing parents: List()
+2025-12-19 13:53:16 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting ResultStage 5 (MapPartitionsRDD[17] at start at SparkProcessingApp.scala:30), which has no missing parents
+2025-12-19 13:53:16 [dag-scheduler-event-loop] INFO  org.apache.spark.SparkContext - Created broadcast 5 from broadcast at DAGScheduler.scala:1585
+2025-12-19 13:53:16 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting 3 missing tasks from ResultStage 5 (MapPartitionsRDD[17] at start at SparkProcessingApp.scala:30) (first 15 tasks are for partitions Vector(0, 1, 2))
+2025-12-19 13:53:16 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Adding task set 5.0 with 3 tasks resource profile 0
+2025-12-19 13:53:16 [dispatcher-event-loop-0] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 0.0 in stage 5.0 (TID 14) (Kudadiri7204.mshome.net, executor driver, partition 0, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 13:53:16 [dispatcher-event-loop-0] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 1.0 in stage 5.0 (TID 15) (Kudadiri7204.mshome.net, executor driver, partition 1, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 13:53:16 [dispatcher-event-loop-0] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 2.0 in stage 5.0 (TID 16) (Kudadiri7204.mshome.net, executor driver, partition 2, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 13:53:16 [Executor task launch worker for task 0.0 in stage 5.0 (TID 14)] INFO  org.apache.spark.executor.Executor - Running task 0.0 in stage 5.0 (TID 14)
+2025-12-19 13:53:16 [Executor task launch worker for task 1.0 in stage 5.0 (TID 15)] INFO  org.apache.spark.executor.Executor - Running task 1.0 in stage 5.0 (TID 15)
+2025-12-19 13:53:16 [Executor task launch worker for task 2.0 in stage 5.0 (TID 16)] INFO  org.apache.spark.executor.Executor - Running task 2.0 in stage 5.0 (TID 16)
+2025-12-19 13:53:16 [Executor task launch worker for task 2.0 in stage 5.0 (TID 16)] INFO  org.apache.spark.executor.Executor - Finished task 2.0 in stage 5.0 (TID 16). 129385 bytes result sent to driver
+2025-12-19 13:53:16 [task-result-getter-1] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 2.0 in stage 5.0 (TID 16) in 35 ms on Kudadiri7204.mshome.net (executor driver) (1/3)
+2025-12-19 13:53:16 [Executor task launch worker for task 1.0 in stage 5.0 (TID 15)] INFO  org.apache.spark.executor.Executor - Finished task 1.0 in stage 5.0 (TID 15). 127721 bytes result sent to driver
+2025-12-19 13:53:16 [task-result-getter-0] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 1.0 in stage 5.0 (TID 15) in 52 ms on Kudadiri7204.mshome.net (executor driver) (2/3)
+2025-12-19 13:53:17 [Executor task launch worker for task 0.0 in stage 5.0 (TID 14)] INFO  org.apache.spark.executor.Executor - Finished task 0.0 in stage 5.0 (TID 14). 94344 bytes result sent to driver
+2025-12-19 13:53:17 [task-result-getter-3] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 0.0 in stage 5.0 (TID 14) in 559 ms on Kudadiri7204.mshome.net (executor driver) (3/3)
+2025-12-19 13:53:17 [task-result-getter-3] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Removed TaskSet 5.0, whose tasks have all completed, from pool 
+2025-12-19 13:53:17 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - ResultStage 5 (start at SparkProcessingApp.scala:30) finished in 0.573 s
+2025-12-19 13:53:17 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Job 5 is finished. Cancelling potential speculative or zombie tasks for this job
+2025-12-19 13:53:17 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Killing all running tasks in stage 5: Stage finished
+2025-12-19 13:53:17 [stream execution thread for [id = 343d2de9-1d86-44ac-afd4-eeb6de3ff92e, runId = 4da7be64-4d7b-4152-af34-670de7695894]] INFO  org.apache.spark.scheduler.DAGScheduler - Job 5 finished: start at SparkProcessingApp.scala:30, took 0.601740 s
+2025-12-19 13:53:36 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Invoking stop() from shutdown hook
+2025-12-19 13:53:36 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - SparkContext is stopping with exitCode 0.
+2025-12-19 13:53:36 [dispatcher-event-loop-2] INFO  org.apache.spark.scheduler.OutputCommitCoordinator$OutputCommitCoordinatorEndpoint - OutputCommitCoordinator stopped!
+2025-12-19 13:53:36 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Successfully stopped SparkContext
+2025-12-19 16:36:35 [main] INFO  org.apache.spark.SparkContext - Running Spark version 3.5.3
+2025-12-19 16:36:35 [main] INFO  org.apache.spark.SparkContext - OS info Windows 11, 10.0, amd64
+2025-12-19 16:36:35 [main] INFO  org.apache.spark.SparkContext - Java version 11.0.26
+2025-12-19 16:36:36 [main] INFO  org.apache.spark.SparkContext - Submitted application: Spark App
+2025-12-19 16:36:40 [main] INFO  org.apache.spark.executor.Executor - Starting executor ID driver on host Kudadiri7204.mshome.net
+2025-12-19 16:36:40 [main] INFO  org.apache.spark.executor.Executor - OS info Windows 11, 10.0, amd64
+2025-12-19 16:36:40 [main] INFO  org.apache.spark.executor.Executor - Java version 11.0.26
+2025-12-19 16:36:40 [main] INFO  org.apache.spark.executor.Executor - Starting executor with user classpath (userClassPathFirst = false): ''
+2025-12-19 16:36:40 [main] INFO  org.apache.spark.executor.Executor - Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@3440e9cd for default.
+2025-12-19 16:36:48 [stream execution thread for [id = f9fd6e46-cdfa-4098-ad30-9cf2289b3268, runId = 3960c412-ef89-4d17-a345-c92be1ed8fdb]] INFO  org.apache.kafka.clients.admin.AdminClientConfig - AdminClientConfig values: 
+	auto.include.jmx.reporter = true
+	bootstrap.servers = [172.25.5.7:9092]
+	client.dns.lookup = use_all_dns_ips
+	client.id = 
+	connections.max.idle.ms = 300000
+	default.api.timeout.ms = 60000
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.connect.timeout.ms = null
+	sasl.login.read.timeout.ms = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.login.retry.backoff.max.ms = 10000
+	sasl.login.retry.backoff.ms = 100
+	sasl.mechanism = GSSAPI
+	sasl.oauthbearer.clock.skew.seconds = 30
+	sasl.oauthbearer.expected.audience = null
+	sasl.oauthbearer.expected.issuer = null
+	sasl.oauthbearer.jwks.endpoint.refresh.ms = 3600000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.max.ms = 10000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.ms = 100
+	sasl.oauthbearer.jwks.endpoint.url = null
+	sasl.oauthbearer.scope.claim.name = scope
+	sasl.oauthbearer.sub.claim.name = sub
+	sasl.oauthbearer.token.endpoint.url = null
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+
+2025-12-19 16:36:49 [stream execution thread for [id = f9fd6e46-cdfa-4098-ad30-9cf2289b3268, runId = 3960c412-ef89-4d17-a345-c92be1ed8fdb]] WARN  org.apache.kafka.clients.admin.AdminClientConfig - These configurations '[key.deserializer, value.deserializer, enable.auto.commit, max.poll.records, auto.offset.reset]' were supplied but are not used yet.
+2025-12-19 16:36:54 [stream execution thread for [id = f9fd6e46-cdfa-4098-ad30-9cf2289b3268, runId = 3960c412-ef89-4d17-a345-c92be1ed8fdb]] INFO  org.apache.spark.SparkContext - Starting job: start at SparkProcessingApp.scala:34
+2025-12-19 16:36:54 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Got job 0 (start at SparkProcessingApp.scala:34) with 3 output partitions
+2025-12-19 16:36:54 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Final stage: ResultStage 0 (start at SparkProcessingApp.scala:34)
+2025-12-19 16:36:54 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Parents of final stage: List()
+2025-12-19 16:36:54 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Missing parents: List()
+2025-12-19 16:36:54 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting ResultStage 0 (MapPartitionsRDD[3] at start at SparkProcessingApp.scala:34), which has no missing parents
+2025-12-19 16:36:54 [dag-scheduler-event-loop] INFO  org.apache.spark.SparkContext - Created broadcast 0 from broadcast at DAGScheduler.scala:1585
+2025-12-19 16:36:54 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting 3 missing tasks from ResultStage 0 (MapPartitionsRDD[3] at start at SparkProcessingApp.scala:34) (first 15 tasks are for partitions Vector(0, 1, 2))
+2025-12-19 16:36:54 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Adding task set 0.0 with 3 tasks resource profile 0
+2025-12-19 16:36:54 [dispatcher-event-loop-2] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 0.0 in stage 0.0 (TID 0) (Kudadiri7204.mshome.net, executor driver, partition 0, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 16:36:54 [dispatcher-event-loop-2] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 1.0 in stage 0.0 (TID 1) (Kudadiri7204.mshome.net, executor driver, partition 1, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 16:36:54 [dispatcher-event-loop-2] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 2.0 in stage 0.0 (TID 2) (Kudadiri7204.mshome.net, executor driver, partition 2, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 16:36:54 [Executor task launch worker for task 1.0 in stage 0.0 (TID 1)] INFO  org.apache.spark.executor.Executor - Running task 1.0 in stage 0.0 (TID 1)
+2025-12-19 16:36:54 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Running task 0.0 in stage 0.0 (TID 0)
+2025-12-19 16:36:54 [Executor task launch worker for task 2.0 in stage 0.0 (TID 2)] INFO  org.apache.spark.executor.Executor - Running task 2.0 in stage 0.0 (TID 2)
+2025-12-19 16:36:58 [Executor task launch worker for task 2.0 in stage 0.0 (TID 2)] INFO  org.apache.spark.executor.Executor - Finished task 2.0 in stage 0.0 (TID 2). 593697 bytes result sent to driver
+2025-12-19 16:36:58 [Executor task launch worker for task 1.0 in stage 0.0 (TID 1)] INFO  org.apache.spark.executor.Executor - Finished task 1.0 in stage 0.0 (TID 1). 589817 bytes result sent to driver
+2025-12-19 16:36:58 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Finished task 0.0 in stage 0.0 (TID 0). 554142 bytes result sent to driver
+2025-12-19 16:36:58 [task-result-getter-1] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 0.0 in stage 0.0 (TID 0) in 3617 ms on Kudadiri7204.mshome.net (executor driver) (1/3)
+2025-12-19 16:36:58 [task-result-getter-0] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 1.0 in stage 0.0 (TID 1) in 3640 ms on Kudadiri7204.mshome.net (executor driver) (2/3)
+2025-12-19 16:36:58 [task-result-getter-2] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 2.0 in stage 0.0 (TID 2) in 3650 ms on Kudadiri7204.mshome.net (executor driver) (3/3)
+2025-12-19 16:36:58 [task-result-getter-2] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Removed TaskSet 0.0, whose tasks have all completed, from pool 
+2025-12-19 16:36:58 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - ResultStage 0 (start at SparkProcessingApp.scala:34) finished in 4.233 s
+2025-12-19 16:36:58 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 is finished. Cancelling potential speculative or zombie tasks for this job
+2025-12-19 16:36:58 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Killing all running tasks in stage 0: Stage finished
+2025-12-19 16:36:58 [stream execution thread for [id = f9fd6e46-cdfa-4098-ad30-9cf2289b3268, runId = 3960c412-ef89-4d17-a345-c92be1ed8fdb]] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 finished: start at SparkProcessingApp.scala:34, took 4.362273 s
+2025-12-19 16:42:18 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Invoking stop() from shutdown hook
+2025-12-19 16:42:18 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - SparkContext is stopping with exitCode 0.
+2025-12-19 16:42:18 [dispatcher-event-loop-2] INFO  org.apache.spark.scheduler.OutputCommitCoordinator$OutputCommitCoordinatorEndpoint - OutputCommitCoordinator stopped!
+2025-12-19 16:42:18 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Successfully stopped SparkContext
+2025-12-19 16:42:38 [main] INFO  org.apache.spark.SparkContext - Running Spark version 3.5.3
+2025-12-19 16:42:38 [main] INFO  org.apache.spark.SparkContext - OS info Windows 11, 10.0, amd64
+2025-12-19 16:42:38 [main] INFO  org.apache.spark.SparkContext - Java version 11.0.26
+2025-12-19 16:42:39 [main] INFO  org.apache.spark.SparkContext - Submitted application: Spark App
+2025-12-19 16:42:47 [main] INFO  org.apache.spark.executor.Executor - Starting executor ID driver on host Kudadiri7204.mshome.net
+2025-12-19 16:42:47 [main] INFO  org.apache.spark.executor.Executor - OS info Windows 11, 10.0, amd64
+2025-12-19 16:42:47 [main] INFO  org.apache.spark.executor.Executor - Java version 11.0.26
+2025-12-19 16:42:47 [main] INFO  org.apache.spark.executor.Executor - Starting executor with user classpath (userClassPathFirst = false): ''
+2025-12-19 16:42:47 [main] INFO  org.apache.spark.executor.Executor - Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@7134b8a7 for default.
+2025-12-19 16:42:56 [stream execution thread for [id = 482f48cb-708e-4c36-8609-27b162b46791, runId = 0fe9d8f4-9c7f-4415-b7d1-968748a1c787]] INFO  org.apache.kafka.clients.admin.AdminClientConfig - AdminClientConfig values: 
+	auto.include.jmx.reporter = true
+	bootstrap.servers = [172.25.5.7:9092]
+	client.dns.lookup = use_all_dns_ips
+	client.id = 
+	connections.max.idle.ms = 300000
+	default.api.timeout.ms = 60000
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.connect.timeout.ms = null
+	sasl.login.read.timeout.ms = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.login.retry.backoff.max.ms = 10000
+	sasl.login.retry.backoff.ms = 100
+	sasl.mechanism = GSSAPI
+	sasl.oauthbearer.clock.skew.seconds = 30
+	sasl.oauthbearer.expected.audience = null
+	sasl.oauthbearer.expected.issuer = null
+	sasl.oauthbearer.jwks.endpoint.refresh.ms = 3600000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.max.ms = 10000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.ms = 100
+	sasl.oauthbearer.jwks.endpoint.url = null
+	sasl.oauthbearer.scope.claim.name = scope
+	sasl.oauthbearer.sub.claim.name = sub
+	sasl.oauthbearer.token.endpoint.url = null
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+
+2025-12-19 16:42:56 [stream execution thread for [id = 482f48cb-708e-4c36-8609-27b162b46791, runId = 0fe9d8f4-9c7f-4415-b7d1-968748a1c787]] WARN  org.apache.kafka.clients.admin.AdminClientConfig - These configurations '[key.deserializer, value.deserializer, enable.auto.commit, max.poll.records, auto.offset.reset]' were supplied but are not used yet.
+2025-12-19 16:43:01 [stream execution thread for [id = 482f48cb-708e-4c36-8609-27b162b46791, runId = 0fe9d8f4-9c7f-4415-b7d1-968748a1c787]] INFO  org.apache.spark.SparkContext - Starting job: start at SparkProcessingApp.scala:34
+2025-12-19 16:43:01 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Got job 0 (start at SparkProcessingApp.scala:34) with 3 output partitions
+2025-12-19 16:43:01 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Final stage: ResultStage 0 (start at SparkProcessingApp.scala:34)
+2025-12-19 16:43:01 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Parents of final stage: List()
+2025-12-19 16:43:01 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Missing parents: List()
+2025-12-19 16:43:01 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting ResultStage 0 (MapPartitionsRDD[3] at start at SparkProcessingApp.scala:34), which has no missing parents
+2025-12-19 16:43:01 [dag-scheduler-event-loop] INFO  org.apache.spark.SparkContext - Created broadcast 0 from broadcast at DAGScheduler.scala:1585
+2025-12-19 16:43:01 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting 3 missing tasks from ResultStage 0 (MapPartitionsRDD[3] at start at SparkProcessingApp.scala:34) (first 15 tasks are for partitions Vector(0, 1, 2))
+2025-12-19 16:43:01 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Adding task set 0.0 with 3 tasks resource profile 0
+2025-12-19 16:43:01 [dispatcher-event-loop-2] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 0.0 in stage 0.0 (TID 0) (Kudadiri7204.mshome.net, executor driver, partition 0, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 16:43:01 [dispatcher-event-loop-2] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 1.0 in stage 0.0 (TID 1) (Kudadiri7204.mshome.net, executor driver, partition 1, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 16:43:01 [dispatcher-event-loop-2] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 2.0 in stage 0.0 (TID 2) (Kudadiri7204.mshome.net, executor driver, partition 2, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 16:43:01 [Executor task launch worker for task 2.0 in stage 0.0 (TID 2)] INFO  org.apache.spark.executor.Executor - Running task 2.0 in stage 0.0 (TID 2)
+2025-12-19 16:43:01 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Running task 0.0 in stage 0.0 (TID 0)
+2025-12-19 16:43:01 [Executor task launch worker for task 1.0 in stage 0.0 (TID 1)] INFO  org.apache.spark.executor.Executor - Running task 1.0 in stage 0.0 (TID 1)
+2025-12-19 16:43:05 [Executor task launch worker for task 1.0 in stage 0.0 (TID 1)] INFO  org.apache.spark.executor.Executor - Finished task 1.0 in stage 0.0 (TID 1). 589817 bytes result sent to driver
+2025-12-19 16:43:05 [Executor task launch worker for task 2.0 in stage 0.0 (TID 2)] INFO  org.apache.spark.executor.Executor - Finished task 2.0 in stage 0.0 (TID 2). 593697 bytes result sent to driver
+2025-12-19 16:43:05 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Finished task 0.0 in stage 0.0 (TID 0). 554142 bytes result sent to driver
+2025-12-19 16:43:05 [task-result-getter-0] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 1.0 in stage 0.0 (TID 1) in 3343 ms on Kudadiri7204.mshome.net (executor driver) (1/3)
+2025-12-19 16:43:05 [task-result-getter-1] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 2.0 in stage 0.0 (TID 2) in 3347 ms on Kudadiri7204.mshome.net (executor driver) (2/3)
+2025-12-19 16:43:05 [task-result-getter-2] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 0.0 in stage 0.0 (TID 0) in 3386 ms on Kudadiri7204.mshome.net (executor driver) (3/3)
+2025-12-19 16:43:05 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - ResultStage 0 (start at SparkProcessingApp.scala:34) finished in 3.819 s
+2025-12-19 16:43:05 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 is finished. Cancelling potential speculative or zombie tasks for this job
+2025-12-19 16:43:05 [task-result-getter-2] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Removed TaskSet 0.0, whose tasks have all completed, from pool 
+2025-12-19 16:43:05 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Killing all running tasks in stage 0: Stage finished
+2025-12-19 16:43:05 [stream execution thread for [id = 482f48cb-708e-4c36-8609-27b162b46791, runId = 0fe9d8f4-9c7f-4415-b7d1-968748a1c787]] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 finished: start at SparkProcessingApp.scala:34, took 3.914065 s
+2025-12-19 16:45:07 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Invoking stop() from shutdown hook
+2025-12-19 16:45:07 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - SparkContext is stopping with exitCode 0.
+2025-12-19 16:45:07 [dispatcher-event-loop-0] INFO  org.apache.spark.scheduler.OutputCommitCoordinator$OutputCommitCoordinatorEndpoint - OutputCommitCoordinator stopped!
+2025-12-19 16:45:07 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Successfully stopped SparkContext
+2025-12-19 16:45:20 [main] INFO  org.apache.spark.SparkContext - Running Spark version 3.5.3
+2025-12-19 16:45:20 [main] INFO  org.apache.spark.SparkContext - OS info Windows 11, 10.0, amd64
+2025-12-19 16:45:20 [main] INFO  org.apache.spark.SparkContext - Java version 11.0.26
+2025-12-19 16:45:20 [main] INFO  org.apache.spark.SparkContext - Submitted application: Spark App
+2025-12-19 16:45:25 [main] INFO  org.apache.spark.executor.Executor - Starting executor ID driver on host Kudadiri7204.mshome.net
+2025-12-19 16:45:25 [main] INFO  org.apache.spark.executor.Executor - OS info Windows 11, 10.0, amd64
+2025-12-19 16:45:25 [main] INFO  org.apache.spark.executor.Executor - Java version 11.0.26
+2025-12-19 16:45:25 [main] INFO  org.apache.spark.executor.Executor - Starting executor with user classpath (userClassPathFirst = false): ''
+2025-12-19 16:45:25 [main] INFO  org.apache.spark.executor.Executor - Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@7efa3f63 for default.
+2025-12-19 16:45:32 [stream execution thread for [id = 6ddf0512-3ce3-4c8e-8fa3-1e2c48aee45c, runId = 4b94491b-7fce-4aa6-ab73-c9fa66185c98]] INFO  org.apache.kafka.clients.admin.AdminClientConfig - AdminClientConfig values: 
+	auto.include.jmx.reporter = true
+	bootstrap.servers = [172.25.5.7:9092]
+	client.dns.lookup = use_all_dns_ips
+	client.id = 
+	connections.max.idle.ms = 300000
+	default.api.timeout.ms = 60000
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.connect.timeout.ms = null
+	sasl.login.read.timeout.ms = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.login.retry.backoff.max.ms = 10000
+	sasl.login.retry.backoff.ms = 100
+	sasl.mechanism = GSSAPI
+	sasl.oauthbearer.clock.skew.seconds = 30
+	sasl.oauthbearer.expected.audience = null
+	sasl.oauthbearer.expected.issuer = null
+	sasl.oauthbearer.jwks.endpoint.refresh.ms = 3600000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.max.ms = 10000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.ms = 100
+	sasl.oauthbearer.jwks.endpoint.url = null
+	sasl.oauthbearer.scope.claim.name = scope
+	sasl.oauthbearer.sub.claim.name = sub
+	sasl.oauthbearer.token.endpoint.url = null
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+
+2025-12-19 16:45:32 [stream execution thread for [id = 6ddf0512-3ce3-4c8e-8fa3-1e2c48aee45c, runId = 4b94491b-7fce-4aa6-ab73-c9fa66185c98]] WARN  org.apache.kafka.clients.admin.AdminClientConfig - These configurations '[key.deserializer, value.deserializer, enable.auto.commit, max.poll.records, auto.offset.reset]' were supplied but are not used yet.
+2025-12-19 16:45:37 [stream execution thread for [id = 6ddf0512-3ce3-4c8e-8fa3-1e2c48aee45c, runId = 4b94491b-7fce-4aa6-ab73-c9fa66185c98]] INFO  org.apache.spark.SparkContext - Starting job: start at SparkProcessingApp.scala:30
+2025-12-19 16:45:37 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Got job 0 (start at SparkProcessingApp.scala:30) with 3 output partitions
+2025-12-19 16:45:37 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Final stage: ResultStage 0 (start at SparkProcessingApp.scala:30)
+2025-12-19 16:45:37 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Parents of final stage: List()
+2025-12-19 16:45:37 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Missing parents: List()
+2025-12-19 16:45:37 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting ResultStage 0 (MapPartitionsRDD[2] at start at SparkProcessingApp.scala:30), which has no missing parents
+2025-12-19 16:45:37 [dag-scheduler-event-loop] INFO  org.apache.spark.SparkContext - Created broadcast 0 from broadcast at DAGScheduler.scala:1585
+2025-12-19 16:45:37 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting 3 missing tasks from ResultStage 0 (MapPartitionsRDD[2] at start at SparkProcessingApp.scala:30) (first 15 tasks are for partitions Vector(0, 1, 2))
+2025-12-19 16:45:37 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Adding task set 0.0 with 3 tasks resource profile 0
+2025-12-19 16:45:37 [dispatcher-event-loop-2] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 0.0 in stage 0.0 (TID 0) (Kudadiri7204.mshome.net, executor driver, partition 0, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 16:45:37 [dispatcher-event-loop-2] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 1.0 in stage 0.0 (TID 1) (Kudadiri7204.mshome.net, executor driver, partition 1, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 16:45:37 [dispatcher-event-loop-2] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 2.0 in stage 0.0 (TID 2) (Kudadiri7204.mshome.net, executor driver, partition 2, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 16:45:37 [Executor task launch worker for task 1.0 in stage 0.0 (TID 1)] INFO  org.apache.spark.executor.Executor - Running task 1.0 in stage 0.0 (TID 1)
+2025-12-19 16:45:37 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Running task 0.0 in stage 0.0 (TID 0)
+2025-12-19 16:45:37 [Executor task launch worker for task 2.0 in stage 0.0 (TID 2)] INFO  org.apache.spark.executor.Executor - Running task 2.0 in stage 0.0 (TID 2)
+2025-12-19 16:45:40 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Finished task 0.0 in stage 0.0 (TID 0). 1038209 bytes result sent to driver
+2025-12-19 16:45:41 [Executor task launch worker for task 2.0 in stage 0.0 (TID 2)] INFO  org.apache.spark.executor.Executor - Finished task 2.0 in stage 0.0 (TID 2). 1112217 bytes result sent via BlockManager)
+2025-12-19 16:45:41 [Executor task launch worker for task 1.0 in stage 0.0 (TID 1)] INFO  org.apache.spark.executor.Executor - Finished task 1.0 in stage 0.0 (TID 1). 1104697 bytes result sent via BlockManager)
+2025-12-19 16:45:41 [task-result-getter-0] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 0.0 in stage 0.0 (TID 0) in 3323 ms on Kudadiri7204.mshome.net (executor driver) (1/3)
+2025-12-19 16:45:41 [task-result-getter-1] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 2.0 in stage 0.0 (TID 2) in 3630 ms on Kudadiri7204.mshome.net (executor driver) (2/3)
+2025-12-19 16:45:41 [task-result-getter-2] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 1.0 in stage 0.0 (TID 1) in 3632 ms on Kudadiri7204.mshome.net (executor driver) (3/3)
+2025-12-19 16:45:41 [task-result-getter-2] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Removed TaskSet 0.0, whose tasks have all completed, from pool 
+2025-12-19 16:45:41 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - ResultStage 0 (start at SparkProcessingApp.scala:30) finished in 3.969 s
+2025-12-19 16:45:41 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 is finished. Cancelling potential speculative or zombie tasks for this job
+2025-12-19 16:45:41 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Killing all running tasks in stage 0: Stage finished
+2025-12-19 16:45:41 [stream execution thread for [id = 6ddf0512-3ce3-4c8e-8fa3-1e2c48aee45c, runId = 4b94491b-7fce-4aa6-ab73-c9fa66185c98]] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 finished: start at SparkProcessingApp.scala:30, took 4.099807 s
+2025-12-19 16:46:32 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Invoking stop() from shutdown hook
+2025-12-19 16:46:32 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - SparkContext is stopping with exitCode 0.
+2025-12-19 16:46:32 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.OutputCommitCoordinator$OutputCommitCoordinatorEndpoint - OutputCommitCoordinator stopped!
+2025-12-19 16:46:32 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Successfully stopped SparkContext
+2025-12-19 16:47:22 [main] INFO  org.apache.spark.SparkContext - Running Spark version 3.5.3
+2025-12-19 16:47:22 [main] INFO  org.apache.spark.SparkContext - OS info Windows 11, 10.0, amd64
+2025-12-19 16:47:22 [main] INFO  org.apache.spark.SparkContext - Java version 11.0.26
+2025-12-19 16:47:23 [main] INFO  org.apache.spark.SparkContext - Submitted application: Spark App
+2025-12-19 16:47:28 [main] INFO  org.apache.spark.executor.Executor - Starting executor ID driver on host Kudadiri7204.mshome.net
+2025-12-19 16:47:28 [main] INFO  org.apache.spark.executor.Executor - OS info Windows 11, 10.0, amd64
+2025-12-19 16:47:28 [main] INFO  org.apache.spark.executor.Executor - Java version 11.0.26
+2025-12-19 16:47:28 [main] INFO  org.apache.spark.executor.Executor - Starting executor with user classpath (userClassPathFirst = false): ''
+2025-12-19 16:47:28 [main] INFO  org.apache.spark.executor.Executor - Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@7efa3f63 for default.
+2025-12-19 16:47:38 [stream execution thread for [id = 9cde1ea3-a596-4a44-bbe2-cce6308c5434, runId = 6bfe5d81-612b-47ea-9d97-239376d2367a]] INFO  org.apache.kafka.clients.admin.AdminClientConfig - AdminClientConfig values: 
+	auto.include.jmx.reporter = true
+	bootstrap.servers = [172.25.5.7:9092]
+	client.dns.lookup = use_all_dns_ips
+	client.id = 
+	connections.max.idle.ms = 300000
+	default.api.timeout.ms = 60000
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.connect.timeout.ms = null
+	sasl.login.read.timeout.ms = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.login.retry.backoff.max.ms = 10000
+	sasl.login.retry.backoff.ms = 100
+	sasl.mechanism = GSSAPI
+	sasl.oauthbearer.clock.skew.seconds = 30
+	sasl.oauthbearer.expected.audience = null
+	sasl.oauthbearer.expected.issuer = null
+	sasl.oauthbearer.jwks.endpoint.refresh.ms = 3600000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.max.ms = 10000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.ms = 100
+	sasl.oauthbearer.jwks.endpoint.url = null
+	sasl.oauthbearer.scope.claim.name = scope
+	sasl.oauthbearer.sub.claim.name = sub
+	sasl.oauthbearer.token.endpoint.url = null
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+
+2025-12-19 16:47:38 [stream execution thread for [id = 9cde1ea3-a596-4a44-bbe2-cce6308c5434, runId = 6bfe5d81-612b-47ea-9d97-239376d2367a]] WARN  org.apache.kafka.clients.admin.AdminClientConfig - These configurations '[key.deserializer, value.deserializer, enable.auto.commit, max.poll.records, auto.offset.reset]' were supplied but are not used yet.
+2025-12-19 16:47:43 [stream execution thread for [id = 9cde1ea3-a596-4a44-bbe2-cce6308c5434, runId = 6bfe5d81-612b-47ea-9d97-239376d2367a]] INFO  org.apache.spark.SparkContext - Starting job: start at SparkProcessingApp.scala:35
+2025-12-19 16:47:43 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Got job 0 (start at SparkProcessingApp.scala:35) with 3 output partitions
+2025-12-19 16:47:43 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Final stage: ResultStage 0 (start at SparkProcessingApp.scala:35)
+2025-12-19 16:47:43 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Parents of final stage: List()
+2025-12-19 16:47:43 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Missing parents: List()
+2025-12-19 16:47:43 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting ResultStage 0 (MapPartitionsRDD[3] at start at SparkProcessingApp.scala:35), which has no missing parents
+2025-12-19 16:47:43 [dag-scheduler-event-loop] INFO  org.apache.spark.SparkContext - Created broadcast 0 from broadcast at DAGScheduler.scala:1585
+2025-12-19 16:47:43 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting 3 missing tasks from ResultStage 0 (MapPartitionsRDD[3] at start at SparkProcessingApp.scala:35) (first 15 tasks are for partitions Vector(0, 1, 2))
+2025-12-19 16:47:43 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Adding task set 0.0 with 3 tasks resource profile 0
+2025-12-19 16:47:44 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 0.0 in stage 0.0 (TID 0) (Kudadiri7204.mshome.net, executor driver, partition 0, PROCESS_LOCAL, 10234 bytes) 
+2025-12-19 16:47:44 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 1.0 in stage 0.0 (TID 1) (Kudadiri7204.mshome.net, executor driver, partition 1, PROCESS_LOCAL, 10234 bytes) 
+2025-12-19 16:47:44 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 2.0 in stage 0.0 (TID 2) (Kudadiri7204.mshome.net, executor driver, partition 2, PROCESS_LOCAL, 10234 bytes) 
+2025-12-19 16:47:44 [Executor task launch worker for task 1.0 in stage 0.0 (TID 1)] INFO  org.apache.spark.executor.Executor - Running task 1.0 in stage 0.0 (TID 1)
+2025-12-19 16:47:44 [Executor task launch worker for task 2.0 in stage 0.0 (TID 2)] INFO  org.apache.spark.executor.Executor - Running task 2.0 in stage 0.0 (TID 2)
+2025-12-19 16:47:44 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Running task 0.0 in stage 0.0 (TID 0)
+2025-12-19 16:47:47 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Finished task 0.0 in stage 0.0 (TID 0). 554142 bytes result sent to driver
+2025-12-19 16:47:47 [Executor task launch worker for task 2.0 in stage 0.0 (TID 2)] INFO  org.apache.spark.executor.Executor - Finished task 2.0 in stage 0.0 (TID 2). 593697 bytes result sent to driver
+2025-12-19 16:47:47 [Executor task launch worker for task 1.0 in stage 0.0 (TID 1)] INFO  org.apache.spark.executor.Executor - Finished task 1.0 in stage 0.0 (TID 1). 589817 bytes result sent to driver
+2025-12-19 16:47:48 [task-result-getter-2] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 1.0 in stage 0.0 (TID 1) in 4124 ms on Kudadiri7204.mshome.net (executor driver) (1/3)
+2025-12-19 16:47:48 [task-result-getter-0] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 2.0 in stage 0.0 (TID 2) in 4136 ms on Kudadiri7204.mshome.net (executor driver) (2/3)
+2025-12-19 16:47:48 [task-result-getter-1] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 0.0 in stage 0.0 (TID 0) in 4203 ms on Kudadiri7204.mshome.net (executor driver) (3/3)
+2025-12-19 16:47:48 [task-result-getter-1] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Removed TaskSet 0.0, whose tasks have all completed, from pool 
+2025-12-19 16:47:48 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - ResultStage 0 (start at SparkProcessingApp.scala:35) finished in 4.829 s
+2025-12-19 16:47:48 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 is finished. Cancelling potential speculative or zombie tasks for this job
+2025-12-19 16:47:48 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Killing all running tasks in stage 0: Stage finished
+2025-12-19 16:47:48 [stream execution thread for [id = 9cde1ea3-a596-4a44-bbe2-cce6308c5434, runId = 6bfe5d81-612b-47ea-9d97-239376d2367a]] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 finished: start at SparkProcessingApp.scala:35, took 4.956565 s
+2025-12-19 16:54:11 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Invoking stop() from shutdown hook
+2025-12-19 16:54:11 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - SparkContext is stopping with exitCode 0.
+2025-12-19 16:54:11 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.OutputCommitCoordinator$OutputCommitCoordinatorEndpoint - OutputCommitCoordinator stopped!
+2025-12-19 16:54:11 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Successfully stopped SparkContext
+2025-12-19 16:54:29 [main] INFO  org.apache.spark.SparkContext - Running Spark version 3.5.3
+2025-12-19 16:54:29 [main] INFO  org.apache.spark.SparkContext - OS info Windows 11, 10.0, amd64
+2025-12-19 16:54:29 [main] INFO  org.apache.spark.SparkContext - Java version 11.0.26
+2025-12-19 16:54:30 [main] INFO  org.apache.spark.SparkContext - Submitted application: Spark App
+2025-12-19 16:54:36 [main] INFO  org.apache.spark.executor.Executor - Starting executor ID driver on host Kudadiri7204.mshome.net
+2025-12-19 16:54:36 [main] INFO  org.apache.spark.executor.Executor - OS info Windows 11, 10.0, amd64
+2025-12-19 16:54:36 [main] INFO  org.apache.spark.executor.Executor - Java version 11.0.26
+2025-12-19 16:54:36 [main] INFO  org.apache.spark.executor.Executor - Starting executor with user classpath (userClassPathFirst = false): ''
+2025-12-19 16:54:36 [main] INFO  org.apache.spark.executor.Executor - Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@7efa3f63 for default.
+2025-12-19 16:54:44 [stream execution thread for [id = bca30294-039a-496d-9d99-d92c2cfa1405, runId = 98cd8a82-5029-4ef8-b336-0272dcbdfa9b]] INFO  org.apache.kafka.clients.admin.AdminClientConfig - AdminClientConfig values: 
+	auto.include.jmx.reporter = true
+	bootstrap.servers = [172.25.5.7:9092]
+	client.dns.lookup = use_all_dns_ips
+	client.id = 
+	connections.max.idle.ms = 300000
+	default.api.timeout.ms = 60000
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.connect.timeout.ms = null
+	sasl.login.read.timeout.ms = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.login.retry.backoff.max.ms = 10000
+	sasl.login.retry.backoff.ms = 100
+	sasl.mechanism = GSSAPI
+	sasl.oauthbearer.clock.skew.seconds = 30
+	sasl.oauthbearer.expected.audience = null
+	sasl.oauthbearer.expected.issuer = null
+	sasl.oauthbearer.jwks.endpoint.refresh.ms = 3600000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.max.ms = 10000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.ms = 100
+	sasl.oauthbearer.jwks.endpoint.url = null
+	sasl.oauthbearer.scope.claim.name = scope
+	sasl.oauthbearer.sub.claim.name = sub
+	sasl.oauthbearer.token.endpoint.url = null
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+
+2025-12-19 16:54:44 [stream execution thread for [id = bca30294-039a-496d-9d99-d92c2cfa1405, runId = 98cd8a82-5029-4ef8-b336-0272dcbdfa9b]] WARN  org.apache.kafka.clients.admin.AdminClientConfig - These configurations '[key.deserializer, value.deserializer, enable.auto.commit, max.poll.records, auto.offset.reset]' were supplied but are not used yet.
+2025-12-19 16:54:48 [stream execution thread for [id = bca30294-039a-496d-9d99-d92c2cfa1405, runId = 98cd8a82-5029-4ef8-b336-0272dcbdfa9b]] INFO  org.apache.spark.SparkContext - Starting job: start at SparkProcessingApp.scala:35
+2025-12-19 16:54:48 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Got job 0 (start at SparkProcessingApp.scala:35) with 3 output partitions
+2025-12-19 16:54:48 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Final stage: ResultStage 0 (start at SparkProcessingApp.scala:35)
+2025-12-19 16:54:48 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Parents of final stage: List()
+2025-12-19 16:54:48 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Missing parents: List()
+2025-12-19 16:54:48 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting ResultStage 0 (MapPartitionsRDD[3] at start at SparkProcessingApp.scala:35), which has no missing parents
+2025-12-19 16:54:49 [dag-scheduler-event-loop] INFO  org.apache.spark.SparkContext - Created broadcast 0 from broadcast at DAGScheduler.scala:1585
+2025-12-19 16:54:49 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting 3 missing tasks from ResultStage 0 (MapPartitionsRDD[3] at start at SparkProcessingApp.scala:35) (first 15 tasks are for partitions Vector(0, 1, 2))
+2025-12-19 16:54:49 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Adding task set 0.0 with 3 tasks resource profile 0
+2025-12-19 16:54:49 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 0.0 in stage 0.0 (TID 0) (Kudadiri7204.mshome.net, executor driver, partition 0, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 16:54:49 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 1.0 in stage 0.0 (TID 1) (Kudadiri7204.mshome.net, executor driver, partition 1, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 16:54:49 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 2.0 in stage 0.0 (TID 2) (Kudadiri7204.mshome.net, executor driver, partition 2, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 16:54:49 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Running task 0.0 in stage 0.0 (TID 0)
+2025-12-19 16:54:49 [Executor task launch worker for task 1.0 in stage 0.0 (TID 1)] INFO  org.apache.spark.executor.Executor - Running task 1.0 in stage 0.0 (TID 1)
+2025-12-19 16:54:49 [Executor task launch worker for task 2.0 in stage 0.0 (TID 2)] INFO  org.apache.spark.executor.Executor - Running task 2.0 in stage 0.0 (TID 2)
+2025-12-19 16:54:52 [Executor task launch worker for task 2.0 in stage 0.0 (TID 2)] INFO  org.apache.spark.executor.Executor - Finished task 2.0 in stage 0.0 (TID 2). 980921 bytes result sent to driver
+2025-12-19 16:54:52 [Executor task launch worker for task 1.0 in stage 0.0 (TID 1)] INFO  org.apache.spark.executor.Executor - Finished task 1.0 in stage 0.0 (TID 1). 973698 bytes result sent to driver
+2025-12-19 16:54:52 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Finished task 0.0 in stage 0.0 (TID 0). 914673 bytes result sent to driver
+2025-12-19 16:54:53 [task-result-getter-0] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 2.0 in stage 0.0 (TID 2) in 3931 ms on Kudadiri7204.mshome.net (executor driver) (1/3)
+2025-12-19 16:54:53 [task-result-getter-1] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 1.0 in stage 0.0 (TID 1) in 4020 ms on Kudadiri7204.mshome.net (executor driver) (2/3)
+2025-12-19 16:54:53 [task-result-getter-2] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 0.0 in stage 0.0 (TID 0) in 4072 ms on Kudadiri7204.mshome.net (executor driver) (3/3)
+2025-12-19 16:54:53 [task-result-getter-2] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Removed TaskSet 0.0, whose tasks have all completed, from pool 
+2025-12-19 16:54:53 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - ResultStage 0 (start at SparkProcessingApp.scala:35) finished in 4.502 s
+2025-12-19 16:54:53 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 is finished. Cancelling potential speculative or zombie tasks for this job
+2025-12-19 16:54:53 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Killing all running tasks in stage 0: Stage finished
+2025-12-19 16:54:53 [stream execution thread for [id = bca30294-039a-496d-9d99-d92c2cfa1405, runId = 98cd8a82-5029-4ef8-b336-0272dcbdfa9b]] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 finished: start at SparkProcessingApp.scala:35, took 4.609359 s
+2025-12-19 16:55:59 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Invoking stop() from shutdown hook
+2025-12-19 16:55:59 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - SparkContext is stopping with exitCode 0.
+2025-12-19 16:55:59 [dispatcher-event-loop-0] INFO  org.apache.spark.scheduler.OutputCommitCoordinator$OutputCommitCoordinatorEndpoint - OutputCommitCoordinator stopped!
+2025-12-19 16:55:59 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Successfully stopped SparkContext
+2025-12-19 17:03:38 [main] INFO  org.apache.spark.SparkContext - Running Spark version 3.5.3
+2025-12-19 17:03:38 [main] INFO  org.apache.spark.SparkContext - OS info Windows 11, 10.0, amd64
+2025-12-19 17:03:38 [main] INFO  org.apache.spark.SparkContext - Java version 11.0.26
+2025-12-19 17:03:39 [main] INFO  org.apache.spark.SparkContext - Submitted application: Spark App
+2025-12-19 17:03:44 [main] INFO  org.apache.spark.executor.Executor - Starting executor ID driver on host Kudadiri7204.mshome.net
+2025-12-19 17:03:44 [main] INFO  org.apache.spark.executor.Executor - OS info Windows 11, 10.0, amd64
+2025-12-19 17:03:44 [main] INFO  org.apache.spark.executor.Executor - Java version 11.0.26
+2025-12-19 17:03:44 [main] INFO  org.apache.spark.executor.Executor - Starting executor with user classpath (userClassPathFirst = false): ''
+2025-12-19 17:03:44 [main] INFO  org.apache.spark.executor.Executor - Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@7efa3f63 for default.
+2025-12-19 17:03:52 [stream execution thread for [id = 8cdd6dc6-4e48-4ba3-879f-2b3a55c26c7c, runId = 4e5e0b7e-c497-40ad-8537-11cc65b15687]] INFO  org.apache.kafka.clients.admin.AdminClientConfig - AdminClientConfig values: 
+	auto.include.jmx.reporter = true
+	bootstrap.servers = [172.25.5.7:9092]
+	client.dns.lookup = use_all_dns_ips
+	client.id = 
+	connections.max.idle.ms = 300000
+	default.api.timeout.ms = 60000
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.connect.timeout.ms = null
+	sasl.login.read.timeout.ms = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.login.retry.backoff.max.ms = 10000
+	sasl.login.retry.backoff.ms = 100
+	sasl.mechanism = GSSAPI
+	sasl.oauthbearer.clock.skew.seconds = 30
+	sasl.oauthbearer.expected.audience = null
+	sasl.oauthbearer.expected.issuer = null
+	sasl.oauthbearer.jwks.endpoint.refresh.ms = 3600000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.max.ms = 10000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.ms = 100
+	sasl.oauthbearer.jwks.endpoint.url = null
+	sasl.oauthbearer.scope.claim.name = scope
+	sasl.oauthbearer.sub.claim.name = sub
+	sasl.oauthbearer.token.endpoint.url = null
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+
+2025-12-19 17:03:52 [stream execution thread for [id = 8cdd6dc6-4e48-4ba3-879f-2b3a55c26c7c, runId = 4e5e0b7e-c497-40ad-8537-11cc65b15687]] WARN  org.apache.kafka.clients.admin.AdminClientConfig - These configurations '[key.deserializer, value.deserializer, enable.auto.commit, max.poll.records, auto.offset.reset]' were supplied but are not used yet.
+2025-12-19 17:03:57 [stream execution thread for [id = 8cdd6dc6-4e48-4ba3-879f-2b3a55c26c7c, runId = 4e5e0b7e-c497-40ad-8537-11cc65b15687]] INFO  org.apache.spark.SparkContext - Starting job: start at SparkProcessingApp.scala:44
+2025-12-19 17:03:57 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Got job 0 (start at SparkProcessingApp.scala:44) with 3 output partitions
+2025-12-19 17:03:57 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Final stage: ResultStage 0 (start at SparkProcessingApp.scala:44)
+2025-12-19 17:03:57 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Parents of final stage: List()
+2025-12-19 17:03:57 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Missing parents: List()
+2025-12-19 17:03:57 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting ResultStage 0 (MapPartitionsRDD[3] at start at SparkProcessingApp.scala:44), which has no missing parents
+2025-12-19 17:03:57 [dag-scheduler-event-loop] INFO  org.apache.spark.SparkContext - Created broadcast 0 from broadcast at DAGScheduler.scala:1585
+2025-12-19 17:03:57 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting 3 missing tasks from ResultStage 0 (MapPartitionsRDD[3] at start at SparkProcessingApp.scala:44) (first 15 tasks are for partitions Vector(0, 1, 2))
+2025-12-19 17:03:57 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Adding task set 0.0 with 3 tasks resource profile 0
+2025-12-19 17:03:57 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 0.0 in stage 0.0 (TID 0) (Kudadiri7204.mshome.net, executor driver, partition 0, PROCESS_LOCAL, 10236 bytes) 
+2025-12-19 17:03:57 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 1.0 in stage 0.0 (TID 1) (Kudadiri7204.mshome.net, executor driver, partition 1, PROCESS_LOCAL, 10236 bytes) 
+2025-12-19 17:03:57 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 2.0 in stage 0.0 (TID 2) (Kudadiri7204.mshome.net, executor driver, partition 2, PROCESS_LOCAL, 10236 bytes) 
+2025-12-19 17:03:57 [Executor task launch worker for task 2.0 in stage 0.0 (TID 2)] INFO  org.apache.spark.executor.Executor - Running task 2.0 in stage 0.0 (TID 2)
+2025-12-19 17:03:57 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Running task 0.0 in stage 0.0 (TID 0)
+2025-12-19 17:03:57 [Executor task launch worker for task 1.0 in stage 0.0 (TID 1)] INFO  org.apache.spark.executor.Executor - Running task 1.0 in stage 0.0 (TID 1)
+2025-12-19 17:04:02 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Finished task 0.0 in stage 0.0 (TID 0). 835245 bytes result sent to driver
+2025-12-19 17:04:03 [Executor task launch worker for task 1.0 in stage 0.0 (TID 1)] INFO  org.apache.spark.executor.Executor - Finished task 1.0 in stage 0.0 (TID 1). 889448 bytes result sent to driver
+2025-12-19 17:04:03 [Executor task launch worker for task 2.0 in stage 0.0 (TID 2)] INFO  org.apache.spark.executor.Executor - Finished task 2.0 in stage 0.0 (TID 2). 895063 bytes result sent to driver
+2025-12-19 17:04:03 [task-result-getter-0] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 0.0 in stage 0.0 (TID 0) in 5588 ms on Kudadiri7204.mshome.net (executor driver) (1/3)
+2025-12-19 17:04:03 [task-result-getter-1] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 1.0 in stage 0.0 (TID 1) in 5585 ms on Kudadiri7204.mshome.net (executor driver) (2/3)
+2025-12-19 17:04:03 [task-result-getter-2] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 2.0 in stage 0.0 (TID 2) in 5604 ms on Kudadiri7204.mshome.net (executor driver) (3/3)
+2025-12-19 17:04:03 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - ResultStage 0 (start at SparkProcessingApp.scala:44) finished in 6.042 s
+2025-12-19 17:04:03 [task-result-getter-2] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Removed TaskSet 0.0, whose tasks have all completed, from pool 
+2025-12-19 17:04:03 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 is finished. Cancelling potential speculative or zombie tasks for this job
+2025-12-19 17:04:03 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Killing all running tasks in stage 0: Stage finished
+2025-12-19 17:04:03 [stream execution thread for [id = 8cdd6dc6-4e48-4ba3-879f-2b3a55c26c7c, runId = 4e5e0b7e-c497-40ad-8537-11cc65b15687]] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 finished: start at SparkProcessingApp.scala:44, took 6.147791 s
+2025-12-19 17:05:08 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Invoking stop() from shutdown hook
+2025-12-19 17:05:08 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - SparkContext is stopping with exitCode 0.
+2025-12-19 17:05:09 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.OutputCommitCoordinator$OutputCommitCoordinatorEndpoint - OutputCommitCoordinator stopped!
+2025-12-19 17:05:09 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Successfully stopped SparkContext
+2025-12-19 17:05:28 [main] INFO  org.apache.spark.SparkContext - Running Spark version 3.5.3
+2025-12-19 17:05:28 [main] INFO  org.apache.spark.SparkContext - OS info Windows 11, 10.0, amd64
+2025-12-19 17:05:28 [main] INFO  org.apache.spark.SparkContext - Java version 11.0.26
+2025-12-19 17:05:29 [main] INFO  org.apache.spark.SparkContext - Submitted application: Spark App
+2025-12-19 17:05:33 [main] INFO  org.apache.spark.executor.Executor - Starting executor ID driver on host Kudadiri7204.mshome.net
+2025-12-19 17:05:33 [main] INFO  org.apache.spark.executor.Executor - OS info Windows 11, 10.0, amd64
+2025-12-19 17:05:33 [main] INFO  org.apache.spark.executor.Executor - Java version 11.0.26
+2025-12-19 17:05:33 [main] INFO  org.apache.spark.executor.Executor - Starting executor with user classpath (userClassPathFirst = false): ''
+2025-12-19 17:05:33 [main] INFO  org.apache.spark.executor.Executor - Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@7efa3f63 for default.
+2025-12-19 17:05:41 [stream execution thread for [id = cb48fc5b-d583-4f69-9b8f-07de378036b6, runId = 1c1041d2-10ec-4342-b7dc-a2bc0726237a]] INFO  org.apache.kafka.clients.admin.AdminClientConfig - AdminClientConfig values: 
+	auto.include.jmx.reporter = true
+	bootstrap.servers = [172.25.5.7:9092]
+	client.dns.lookup = use_all_dns_ips
+	client.id = 
+	connections.max.idle.ms = 300000
+	default.api.timeout.ms = 60000
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.connect.timeout.ms = null
+	sasl.login.read.timeout.ms = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.login.retry.backoff.max.ms = 10000
+	sasl.login.retry.backoff.ms = 100
+	sasl.mechanism = GSSAPI
+	sasl.oauthbearer.clock.skew.seconds = 30
+	sasl.oauthbearer.expected.audience = null
+	sasl.oauthbearer.expected.issuer = null
+	sasl.oauthbearer.jwks.endpoint.refresh.ms = 3600000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.max.ms = 10000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.ms = 100
+	sasl.oauthbearer.jwks.endpoint.url = null
+	sasl.oauthbearer.scope.claim.name = scope
+	sasl.oauthbearer.sub.claim.name = sub
+	sasl.oauthbearer.token.endpoint.url = null
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+
+2025-12-19 17:05:41 [stream execution thread for [id = cb48fc5b-d583-4f69-9b8f-07de378036b6, runId = 1c1041d2-10ec-4342-b7dc-a2bc0726237a]] WARN  org.apache.kafka.clients.admin.AdminClientConfig - These configurations '[key.deserializer, value.deserializer, enable.auto.commit, max.poll.records, auto.offset.reset]' were supplied but are not used yet.
+2025-12-19 17:05:45 [stream execution thread for [id = cb48fc5b-d583-4f69-9b8f-07de378036b6, runId = 1c1041d2-10ec-4342-b7dc-a2bc0726237a]] INFO  org.apache.spark.SparkContext - Starting job: start at SparkProcessingApp.scala:44
+2025-12-19 17:05:45 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Got job 0 (start at SparkProcessingApp.scala:44) with 3 output partitions
+2025-12-19 17:05:45 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Final stage: ResultStage 0 (start at SparkProcessingApp.scala:44)
+2025-12-19 17:05:45 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Parents of final stage: List()
+2025-12-19 17:05:45 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Missing parents: List()
+2025-12-19 17:05:45 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting ResultStage 0 (MapPartitionsRDD[3] at start at SparkProcessingApp.scala:44), which has no missing parents
+2025-12-19 17:05:45 [dag-scheduler-event-loop] INFO  org.apache.spark.SparkContext - Created broadcast 0 from broadcast at DAGScheduler.scala:1585
+2025-12-19 17:05:45 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting 3 missing tasks from ResultStage 0 (MapPartitionsRDD[3] at start at SparkProcessingApp.scala:44) (first 15 tasks are for partitions Vector(0, 1, 2))
+2025-12-19 17:05:45 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Adding task set 0.0 with 3 tasks resource profile 0
+2025-12-19 17:05:46 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 0.0 in stage 0.0 (TID 0) (Kudadiri7204.mshome.net, executor driver, partition 0, PROCESS_LOCAL, 10236 bytes) 
+2025-12-19 17:05:46 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 1.0 in stage 0.0 (TID 1) (Kudadiri7204.mshome.net, executor driver, partition 1, PROCESS_LOCAL, 10236 bytes) 
+2025-12-19 17:05:46 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 2.0 in stage 0.0 (TID 2) (Kudadiri7204.mshome.net, executor driver, partition 2, PROCESS_LOCAL, 10236 bytes) 
+2025-12-19 17:05:46 [Executor task launch worker for task 1.0 in stage 0.0 (TID 1)] INFO  org.apache.spark.executor.Executor - Running task 1.0 in stage 0.0 (TID 1)
+2025-12-19 17:05:46 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Running task 0.0 in stage 0.0 (TID 0)
+2025-12-19 17:05:46 [Executor task launch worker for task 2.0 in stage 0.0 (TID 2)] INFO  org.apache.spark.executor.Executor - Running task 2.0 in stage 0.0 (TID 2)
+2025-12-19 17:05:50 [Executor task launch worker for task 1.0 in stage 0.0 (TID 1)] INFO  org.apache.spark.executor.Executor - Finished task 1.0 in stage 0.0 (TID 1). 889448 bytes result sent to driver
+2025-12-19 17:05:50 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Finished task 0.0 in stage 0.0 (TID 0). 835245 bytes result sent to driver
+2025-12-19 17:05:50 [task-result-getter-0] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 0.0 in stage 0.0 (TID 0) in 4739 ms on Kudadiri7204.mshome.net (executor driver) (1/3)
+2025-12-19 17:05:50 [Executor task launch worker for task 2.0 in stage 0.0 (TID 2)] INFO  org.apache.spark.executor.Executor - Finished task 2.0 in stage 0.0 (TID 2). 895063 bytes result sent to driver
+2025-12-19 17:05:50 [task-result-getter-1] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 1.0 in stage 0.0 (TID 1) in 4862 ms on Kudadiri7204.mshome.net (executor driver) (2/3)
+2025-12-19 17:05:51 [task-result-getter-2] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 2.0 in stage 0.0 (TID 2) in 4965 ms on Kudadiri7204.mshome.net (executor driver) (3/3)
+2025-12-19 17:05:51 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - ResultStage 0 (start at SparkProcessingApp.scala:44) finished in 5.547 s
+2025-12-19 17:05:51 [task-result-getter-2] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Removed TaskSet 0.0, whose tasks have all completed, from pool 
+2025-12-19 17:05:51 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 is finished. Cancelling potential speculative or zombie tasks for this job
+2025-12-19 17:05:51 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Killing all running tasks in stage 0: Stage finished
+2025-12-19 17:05:51 [stream execution thread for [id = cb48fc5b-d583-4f69-9b8f-07de378036b6, runId = 1c1041d2-10ec-4342-b7dc-a2bc0726237a]] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 finished: start at SparkProcessingApp.scala:44, took 5.656337 s
+2025-12-19 17:06:28 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Invoking stop() from shutdown hook
+2025-12-19 17:06:28 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - SparkContext is stopping with exitCode 0.
+2025-12-19 17:06:28 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.OutputCommitCoordinator$OutputCommitCoordinatorEndpoint - OutputCommitCoordinator stopped!
+2025-12-19 17:06:28 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Successfully stopped SparkContext
+2025-12-19 17:06:41 [main] INFO  org.apache.spark.SparkContext - Running Spark version 3.5.3
+2025-12-19 17:06:41 [main] INFO  org.apache.spark.SparkContext - OS info Windows 11, 10.0, amd64
+2025-12-19 17:06:41 [main] INFO  org.apache.spark.SparkContext - Java version 11.0.26
+2025-12-19 17:06:41 [main] INFO  org.apache.spark.SparkContext - Submitted application: Spark App
+2025-12-19 17:06:47 [main] INFO  org.apache.spark.executor.Executor - Starting executor ID driver on host Kudadiri7204.mshome.net
+2025-12-19 17:06:47 [main] INFO  org.apache.spark.executor.Executor - OS info Windows 11, 10.0, amd64
+2025-12-19 17:06:47 [main] INFO  org.apache.spark.executor.Executor - Java version 11.0.26
+2025-12-19 17:06:47 [main] INFO  org.apache.spark.executor.Executor - Starting executor with user classpath (userClassPathFirst = false): ''
+2025-12-19 17:06:47 [main] INFO  org.apache.spark.executor.Executor - Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@7efa3f63 for default.
+2025-12-19 17:06:57 [stream execution thread for [id = 5048407b-eaae-4be7-a6aa-9ee2c6d36180, runId = 05299daf-efde-41d2-8a27-ce474565ce91]] INFO  org.apache.kafka.clients.admin.AdminClientConfig - AdminClientConfig values: 
+	auto.include.jmx.reporter = true
+	bootstrap.servers = [172.25.5.7:9092]
+	client.dns.lookup = use_all_dns_ips
+	client.id = 
+	connections.max.idle.ms = 300000
+	default.api.timeout.ms = 60000
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.connect.timeout.ms = null
+	sasl.login.read.timeout.ms = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.login.retry.backoff.max.ms = 10000
+	sasl.login.retry.backoff.ms = 100
+	sasl.mechanism = GSSAPI
+	sasl.oauthbearer.clock.skew.seconds = 30
+	sasl.oauthbearer.expected.audience = null
+	sasl.oauthbearer.expected.issuer = null
+	sasl.oauthbearer.jwks.endpoint.refresh.ms = 3600000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.max.ms = 10000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.ms = 100
+	sasl.oauthbearer.jwks.endpoint.url = null
+	sasl.oauthbearer.scope.claim.name = scope
+	sasl.oauthbearer.sub.claim.name = sub
+	sasl.oauthbearer.token.endpoint.url = null
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+
+2025-12-19 17:06:57 [stream execution thread for [id = 5048407b-eaae-4be7-a6aa-9ee2c6d36180, runId = 05299daf-efde-41d2-8a27-ce474565ce91]] WARN  org.apache.kafka.clients.admin.AdminClientConfig - These configurations '[key.deserializer, value.deserializer, enable.auto.commit, max.poll.records, auto.offset.reset]' were supplied but are not used yet.
+2025-12-19 17:07:03 [stream execution thread for [id = 5048407b-eaae-4be7-a6aa-9ee2c6d36180, runId = 05299daf-efde-41d2-8a27-ce474565ce91]] INFO  org.apache.spark.SparkContext - Starting job: start at SparkProcessingApp.scala:44
+2025-12-19 17:07:03 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Got job 0 (start at SparkProcessingApp.scala:44) with 3 output partitions
+2025-12-19 17:07:03 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Final stage: ResultStage 0 (start at SparkProcessingApp.scala:44)
+2025-12-19 17:07:03 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Parents of final stage: List()
+2025-12-19 17:07:03 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Missing parents: List()
+2025-12-19 17:07:03 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting ResultStage 0 (MapPartitionsRDD[3] at start at SparkProcessingApp.scala:44), which has no missing parents
+2025-12-19 17:07:03 [dag-scheduler-event-loop] INFO  org.apache.spark.SparkContext - Created broadcast 0 from broadcast at DAGScheduler.scala:1585
+2025-12-19 17:07:03 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting 3 missing tasks from ResultStage 0 (MapPartitionsRDD[3] at start at SparkProcessingApp.scala:44) (first 15 tasks are for partitions Vector(0, 1, 2))
+2025-12-19 17:07:03 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Adding task set 0.0 with 3 tasks resource profile 0
+2025-12-19 17:07:03 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 0.0 in stage 0.0 (TID 0) (Kudadiri7204.mshome.net, executor driver, partition 0, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 17:07:03 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 1.0 in stage 0.0 (TID 1) (Kudadiri7204.mshome.net, executor driver, partition 1, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 17:07:03 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 2.0 in stage 0.0 (TID 2) (Kudadiri7204.mshome.net, executor driver, partition 2, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 17:07:03 [Executor task launch worker for task 1.0 in stage 0.0 (TID 1)] INFO  org.apache.spark.executor.Executor - Running task 1.0 in stage 0.0 (TID 1)
+2025-12-19 17:07:03 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Running task 0.0 in stage 0.0 (TID 0)
+2025-12-19 17:07:03 [Executor task launch worker for task 2.0 in stage 0.0 (TID 2)] INFO  org.apache.spark.executor.Executor - Running task 2.0 in stage 0.0 (TID 2)
+2025-12-19 17:07:09 [Executor task launch worker for task 1.0 in stage 0.0 (TID 1)] INFO  org.apache.spark.executor.Executor - Finished task 1.0 in stage 0.0 (TID 1). 889448 bytes result sent to driver
+2025-12-19 17:07:09 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Finished task 0.0 in stage 0.0 (TID 0). 835245 bytes result sent to driver
+2025-12-19 17:07:09 [Executor task launch worker for task 2.0 in stage 0.0 (TID 2)] INFO  org.apache.spark.executor.Executor - Finished task 2.0 in stage 0.0 (TID 2). 895063 bytes result sent to driver
+2025-12-19 17:07:09 [task-result-getter-1] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 0.0 in stage 0.0 (TID 0) in 6049 ms on Kudadiri7204.mshome.net (executor driver) (1/3)
+2025-12-19 17:07:09 [task-result-getter-2] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 1.0 in stage 0.0 (TID 1) in 6029 ms on Kudadiri7204.mshome.net (executor driver) (2/3)
+2025-12-19 17:07:09 [task-result-getter-0] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 2.0 in stage 0.0 (TID 2) in 6027 ms on Kudadiri7204.mshome.net (executor driver) (3/3)
+2025-12-19 17:07:09 [task-result-getter-0] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Removed TaskSet 0.0, whose tasks have all completed, from pool 
+2025-12-19 17:07:09 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - ResultStage 0 (start at SparkProcessingApp.scala:44) finished in 6.695 s
+2025-12-19 17:07:09 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 is finished. Cancelling potential speculative or zombie tasks for this job
+2025-12-19 17:07:09 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Killing all running tasks in stage 0: Stage finished
+2025-12-19 17:07:09 [stream execution thread for [id = 5048407b-eaae-4be7-a6aa-9ee2c6d36180, runId = 05299daf-efde-41d2-8a27-ce474565ce91]] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 finished: start at SparkProcessingApp.scala:44, took 6.805351 s
+2025-12-19 17:07:48 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Invoking stop() from shutdown hook
+2025-12-19 17:07:48 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - SparkContext is stopping with exitCode 0.
+2025-12-19 17:07:48 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.OutputCommitCoordinator$OutputCommitCoordinatorEndpoint - OutputCommitCoordinator stopped!
+2025-12-19 17:07:48 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Successfully stopped SparkContext
+2025-12-19 17:21:01 [main] INFO  org.apache.spark.SparkContext - Running Spark version 3.5.3
+2025-12-19 17:21:01 [main] INFO  org.apache.spark.SparkContext - OS info Windows 11, 10.0, amd64
+2025-12-19 17:21:01 [main] INFO  org.apache.spark.SparkContext - Java version 11.0.26
+2025-12-19 17:21:02 [main] INFO  org.apache.spark.SparkContext - Submitted application: Spark App
+2025-12-19 17:21:07 [main] INFO  org.apache.spark.executor.Executor - Starting executor ID driver on host Kudadiri7204.mshome.net
+2025-12-19 17:21:07 [main] INFO  org.apache.spark.executor.Executor - OS info Windows 11, 10.0, amd64
+2025-12-19 17:21:07 [main] INFO  org.apache.spark.executor.Executor - Java version 11.0.26
+2025-12-19 17:21:07 [main] INFO  org.apache.spark.executor.Executor - Starting executor with user classpath (userClassPathFirst = false): ''
+2025-12-19 17:21:07 [main] INFO  org.apache.spark.executor.Executor - Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@7efa3f63 for default.
+2025-12-19 17:21:15 [stream execution thread for [id = adc26fc8-5429-4f8c-93a3-872adadf8168, runId = 21ee3ac6-e67e-4b42-a29d-caea8635dcec]] INFO  org.apache.kafka.clients.admin.AdminClientConfig - AdminClientConfig values: 
+	auto.include.jmx.reporter = true
+	bootstrap.servers = [172.25.5.7:9092]
+	client.dns.lookup = use_all_dns_ips
+	client.id = 
+	connections.max.idle.ms = 300000
+	default.api.timeout.ms = 60000
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.connect.timeout.ms = null
+	sasl.login.read.timeout.ms = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.login.retry.backoff.max.ms = 10000
+	sasl.login.retry.backoff.ms = 100
+	sasl.mechanism = GSSAPI
+	sasl.oauthbearer.clock.skew.seconds = 30
+	sasl.oauthbearer.expected.audience = null
+	sasl.oauthbearer.expected.issuer = null
+	sasl.oauthbearer.jwks.endpoint.refresh.ms = 3600000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.max.ms = 10000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.ms = 100
+	sasl.oauthbearer.jwks.endpoint.url = null
+	sasl.oauthbearer.scope.claim.name = scope
+	sasl.oauthbearer.sub.claim.name = sub
+	sasl.oauthbearer.token.endpoint.url = null
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+
+2025-12-19 17:21:15 [stream execution thread for [id = adc26fc8-5429-4f8c-93a3-872adadf8168, runId = 21ee3ac6-e67e-4b42-a29d-caea8635dcec]] WARN  org.apache.kafka.clients.admin.AdminClientConfig - These configurations '[key.deserializer, value.deserializer, enable.auto.commit, max.poll.records, auto.offset.reset]' were supplied but are not used yet.
+2025-12-19 17:21:20 [stream execution thread for [id = adc26fc8-5429-4f8c-93a3-872adadf8168, runId = 21ee3ac6-e67e-4b42-a29d-caea8635dcec]] INFO  org.apache.spark.SparkContext - Starting job: start at SparkProcessingApp.scala:50
+2025-12-19 17:21:20 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Got job 0 (start at SparkProcessingApp.scala:50) with 3 output partitions
+2025-12-19 17:21:20 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Final stage: ResultStage 0 (start at SparkProcessingApp.scala:50)
+2025-12-19 17:21:20 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Parents of final stage: List()
+2025-12-19 17:21:20 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Missing parents: List()
+2025-12-19 17:21:20 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting ResultStage 0 (MapPartitionsRDD[3] at start at SparkProcessingApp.scala:50), which has no missing parents
+2025-12-19 17:21:20 [dag-scheduler-event-loop] INFO  org.apache.spark.SparkContext - Created broadcast 0 from broadcast at DAGScheduler.scala:1585
+2025-12-19 17:21:20 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting 3 missing tasks from ResultStage 0 (MapPartitionsRDD[3] at start at SparkProcessingApp.scala:50) (first 15 tasks are for partitions Vector(0, 1, 2))
+2025-12-19 17:21:20 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Adding task set 0.0 with 3 tasks resource profile 0
+2025-12-19 17:21:20 [dispatcher-event-loop-2] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 0.0 in stage 0.0 (TID 0) (Kudadiri7204.mshome.net, executor driver, partition 0, PROCESS_LOCAL, 10236 bytes) 
+2025-12-19 17:21:20 [dispatcher-event-loop-2] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 1.0 in stage 0.0 (TID 1) (Kudadiri7204.mshome.net, executor driver, partition 1, PROCESS_LOCAL, 10236 bytes) 
+2025-12-19 17:21:20 [dispatcher-event-loop-2] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 2.0 in stage 0.0 (TID 2) (Kudadiri7204.mshome.net, executor driver, partition 2, PROCESS_LOCAL, 10236 bytes) 
+2025-12-19 17:21:20 [Executor task launch worker for task 2.0 in stage 0.0 (TID 2)] INFO  org.apache.spark.executor.Executor - Running task 2.0 in stage 0.0 (TID 2)
+2025-12-19 17:21:20 [Executor task launch worker for task 1.0 in stage 0.0 (TID 1)] INFO  org.apache.spark.executor.Executor - Running task 1.0 in stage 0.0 (TID 1)
+2025-12-19 17:21:20 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Running task 0.0 in stage 0.0 (TID 0)
+2025-12-19 17:21:24 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Finished task 0.0 in stage 0.0 (TID 0). 835245 bytes result sent to driver
+2025-12-19 17:21:24 [Executor task launch worker for task 2.0 in stage 0.0 (TID 2)] INFO  org.apache.spark.executor.Executor - Finished task 2.0 in stage 0.0 (TID 2). 895063 bytes result sent to driver
+2025-12-19 17:21:24 [Executor task launch worker for task 1.0 in stage 0.0 (TID 1)] INFO  org.apache.spark.executor.Executor - Finished task 1.0 in stage 0.0 (TID 1). 889448 bytes result sent to driver
+2025-12-19 17:21:24 [task-result-getter-0] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 1.0 in stage 0.0 (TID 1) in 4435 ms on Kudadiri7204.mshome.net (executor driver) (1/3)
+2025-12-19 17:21:24 [task-result-getter-2] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 2.0 in stage 0.0 (TID 2) in 4471 ms on Kudadiri7204.mshome.net (executor driver) (2/3)
+2025-12-19 17:21:24 [task-result-getter-1] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 0.0 in stage 0.0 (TID 0) in 4512 ms on Kudadiri7204.mshome.net (executor driver) (3/3)
+2025-12-19 17:21:24 [task-result-getter-1] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Removed TaskSet 0.0, whose tasks have all completed, from pool 
+2025-12-19 17:21:25 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - ResultStage 0 (start at SparkProcessingApp.scala:50) finished in 4.928 s
+2025-12-19 17:21:25 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 is finished. Cancelling potential speculative or zombie tasks for this job
+2025-12-19 17:21:25 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Killing all running tasks in stage 0: Stage finished
+2025-12-19 17:21:25 [stream execution thread for [id = adc26fc8-5429-4f8c-93a3-872adadf8168, runId = 21ee3ac6-e67e-4b42-a29d-caea8635dcec]] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 finished: start at SparkProcessingApp.scala:50, took 5.067472 s
+2025-12-19 17:22:10 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Invoking stop() from shutdown hook
+2025-12-19 17:22:10 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - SparkContext is stopping with exitCode 0.
+2025-12-19 17:22:10 [dispatcher-event-loop-2] INFO  org.apache.spark.scheduler.OutputCommitCoordinator$OutputCommitCoordinatorEndpoint - OutputCommitCoordinator stopped!
+2025-12-19 17:22:10 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Successfully stopped SparkContext
+2025-12-19 17:22:23 [main] INFO  org.apache.spark.SparkContext - Running Spark version 3.5.3
+2025-12-19 17:22:23 [main] INFO  org.apache.spark.SparkContext - OS info Windows 11, 10.0, amd64
+2025-12-19 17:22:23 [main] INFO  org.apache.spark.SparkContext - Java version 11.0.26
+2025-12-19 17:22:23 [main] INFO  org.apache.spark.SparkContext - Submitted application: Spark App
+2025-12-19 17:22:28 [main] INFO  org.apache.spark.executor.Executor - Starting executor ID driver on host Kudadiri7204.mshome.net
+2025-12-19 17:22:28 [main] INFO  org.apache.spark.executor.Executor - OS info Windows 11, 10.0, amd64
+2025-12-19 17:22:28 [main] INFO  org.apache.spark.executor.Executor - Java version 11.0.26
+2025-12-19 17:22:28 [main] INFO  org.apache.spark.executor.Executor - Starting executor with user classpath (userClassPathFirst = false): ''
+2025-12-19 17:22:28 [main] INFO  org.apache.spark.executor.Executor - Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@7efa3f63 for default.
+2025-12-19 17:22:35 [stream execution thread for [id = ce4234e1-0e37-4f18-ab14-8bb5b1891278, runId = e9e058a9-d344-46f0-ae5f-e04b167fb5e8]] INFO  org.apache.kafka.clients.admin.AdminClientConfig - AdminClientConfig values: 
+	auto.include.jmx.reporter = true
+	bootstrap.servers = [172.25.5.7:9092]
+	client.dns.lookup = use_all_dns_ips
+	client.id = 
+	connections.max.idle.ms = 300000
+	default.api.timeout.ms = 60000
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.connect.timeout.ms = null
+	sasl.login.read.timeout.ms = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.login.retry.backoff.max.ms = 10000
+	sasl.login.retry.backoff.ms = 100
+	sasl.mechanism = GSSAPI
+	sasl.oauthbearer.clock.skew.seconds = 30
+	sasl.oauthbearer.expected.audience = null
+	sasl.oauthbearer.expected.issuer = null
+	sasl.oauthbearer.jwks.endpoint.refresh.ms = 3600000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.max.ms = 10000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.ms = 100
+	sasl.oauthbearer.jwks.endpoint.url = null
+	sasl.oauthbearer.scope.claim.name = scope
+	sasl.oauthbearer.sub.claim.name = sub
+	sasl.oauthbearer.token.endpoint.url = null
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+
+2025-12-19 17:22:36 [stream execution thread for [id = ce4234e1-0e37-4f18-ab14-8bb5b1891278, runId = e9e058a9-d344-46f0-ae5f-e04b167fb5e8]] WARN  org.apache.kafka.clients.admin.AdminClientConfig - These configurations '[key.deserializer, value.deserializer, enable.auto.commit, max.poll.records, auto.offset.reset]' were supplied but are not used yet.
+2025-12-19 17:22:40 [stream execution thread for [id = ce4234e1-0e37-4f18-ab14-8bb5b1891278, runId = e9e058a9-d344-46f0-ae5f-e04b167fb5e8]] INFO  org.apache.spark.SparkContext - Starting job: start at SparkProcessingApp.scala:52
+2025-12-19 17:22:40 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Got job 0 (start at SparkProcessingApp.scala:52) with 3 output partitions
+2025-12-19 17:22:40 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Final stage: ResultStage 0 (start at SparkProcessingApp.scala:52)
+2025-12-19 17:22:40 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Parents of final stage: List()
+2025-12-19 17:22:40 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Missing parents: List()
+2025-12-19 17:22:40 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting ResultStage 0 (MapPartitionsRDD[3] at start at SparkProcessingApp.scala:52), which has no missing parents
+2025-12-19 17:22:40 [dag-scheduler-event-loop] INFO  org.apache.spark.SparkContext - Created broadcast 0 from broadcast at DAGScheduler.scala:1585
+2025-12-19 17:22:40 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting 3 missing tasks from ResultStage 0 (MapPartitionsRDD[3] at start at SparkProcessingApp.scala:52) (first 15 tasks are for partitions Vector(0, 1, 2))
+2025-12-19 17:22:40 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Adding task set 0.0 with 3 tasks resource profile 0
+2025-12-19 17:22:40 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 0.0 in stage 0.0 (TID 0) (Kudadiri7204.mshome.net, executor driver, partition 0, PROCESS_LOCAL, 10236 bytes) 
+2025-12-19 17:22:40 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 1.0 in stage 0.0 (TID 1) (Kudadiri7204.mshome.net, executor driver, partition 1, PROCESS_LOCAL, 10236 bytes) 
+2025-12-19 17:22:40 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 2.0 in stage 0.0 (TID 2) (Kudadiri7204.mshome.net, executor driver, partition 2, PROCESS_LOCAL, 10236 bytes) 
+2025-12-19 17:22:41 [Executor task launch worker for task 2.0 in stage 0.0 (TID 2)] INFO  org.apache.spark.executor.Executor - Running task 2.0 in stage 0.0 (TID 2)
+2025-12-19 17:22:41 [Executor task launch worker for task 1.0 in stage 0.0 (TID 1)] INFO  org.apache.spark.executor.Executor - Running task 1.0 in stage 0.0 (TID 1)
+2025-12-19 17:22:41 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Running task 0.0 in stage 0.0 (TID 0)
+2025-12-19 17:22:44 [Executor task launch worker for task 2.0 in stage 0.0 (TID 2)] INFO  org.apache.spark.executor.Executor - Finished task 2.0 in stage 0.0 (TID 2). 895063 bytes result sent to driver
+2025-12-19 17:22:44 [Executor task launch worker for task 1.0 in stage 0.0 (TID 1)] INFO  org.apache.spark.executor.Executor - Finished task 1.0 in stage 0.0 (TID 1). 889448 bytes result sent to driver
+2025-12-19 17:22:45 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Finished task 0.0 in stage 0.0 (TID 0). 835245 bytes result sent to driver
+2025-12-19 17:22:45 [task-result-getter-1] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 1.0 in stage 0.0 (TID 1) in 4593 ms on Kudadiri7204.mshome.net (executor driver) (1/3)
+2025-12-19 17:22:45 [task-result-getter-0] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 2.0 in stage 0.0 (TID 2) in 4640 ms on Kudadiri7204.mshome.net (executor driver) (2/3)
+2025-12-19 17:22:45 [task-result-getter-2] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 0.0 in stage 0.0 (TID 0) in 4677 ms on Kudadiri7204.mshome.net (executor driver) (3/3)
+2025-12-19 17:22:45 [task-result-getter-2] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Removed TaskSet 0.0, whose tasks have all completed, from pool 
+2025-12-19 17:22:45 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - ResultStage 0 (start at SparkProcessingApp.scala:52) finished in 5.193 s
+2025-12-19 17:22:45 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 is finished. Cancelling potential speculative or zombie tasks for this job
+2025-12-19 17:22:45 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Killing all running tasks in stage 0: Stage finished
+2025-12-19 17:22:45 [stream execution thread for [id = ce4234e1-0e37-4f18-ab14-8bb5b1891278, runId = e9e058a9-d344-46f0-ae5f-e04b167fb5e8]] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 finished: start at SparkProcessingApp.scala:52, took 5.295752 s
+2025-12-19 17:23:40 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Invoking stop() from shutdown hook
+2025-12-19 17:23:40 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - SparkContext is stopping with exitCode 0.
+2025-12-19 17:23:40 [dispatcher-event-loop-1] INFO  org.apache.spark.scheduler.OutputCommitCoordinator$OutputCommitCoordinatorEndpoint - OutputCommitCoordinator stopped!
+2025-12-19 17:23:40 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Successfully stopped SparkContext
+2025-12-19 17:23:52 [main] INFO  org.apache.spark.SparkContext - Running Spark version 3.5.3
+2025-12-19 17:23:52 [main] INFO  org.apache.spark.SparkContext - OS info Windows 11, 10.0, amd64
+2025-12-19 17:23:52 [main] INFO  org.apache.spark.SparkContext - Java version 11.0.26
+2025-12-19 17:23:53 [main] INFO  org.apache.spark.SparkContext - Submitted application: Spark App
+2025-12-19 17:23:59 [main] INFO  org.apache.spark.executor.Executor - Starting executor ID driver on host Kudadiri7204.mshome.net
+2025-12-19 17:23:59 [main] INFO  org.apache.spark.executor.Executor - OS info Windows 11, 10.0, amd64
+2025-12-19 17:23:59 [main] INFO  org.apache.spark.executor.Executor - Java version 11.0.26
+2025-12-19 17:23:59 [main] INFO  org.apache.spark.executor.Executor - Starting executor with user classpath (userClassPathFirst = false): ''
+2025-12-19 17:23:59 [main] INFO  org.apache.spark.executor.Executor - Created or updated repl class loader org.apache.spark.util.MutableURLClassLoader@7efa3f63 for default.
+2025-12-19 17:24:07 [stream execution thread for [id = f25bc347-6541-4bb7-be08-8dad31b2ae08, runId = f03c790e-566a-43ed-bc7a-c3fee60f0db2]] INFO  org.apache.kafka.clients.admin.AdminClientConfig - AdminClientConfig values: 
+	auto.include.jmx.reporter = true
+	bootstrap.servers = [172.25.5.7:9092]
+	client.dns.lookup = use_all_dns_ips
+	client.id = 
+	connections.max.idle.ms = 300000
+	default.api.timeout.ms = 60000
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.connect.timeout.ms = null
+	sasl.login.read.timeout.ms = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.login.retry.backoff.max.ms = 10000
+	sasl.login.retry.backoff.ms = 100
+	sasl.mechanism = GSSAPI
+	sasl.oauthbearer.clock.skew.seconds = 30
+	sasl.oauthbearer.expected.audience = null
+	sasl.oauthbearer.expected.issuer = null
+	sasl.oauthbearer.jwks.endpoint.refresh.ms = 3600000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.max.ms = 10000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.ms = 100
+	sasl.oauthbearer.jwks.endpoint.url = null
+	sasl.oauthbearer.scope.claim.name = scope
+	sasl.oauthbearer.sub.claim.name = sub
+	sasl.oauthbearer.token.endpoint.url = null
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+
+2025-12-19 17:24:07 [stream execution thread for [id = f25bc347-6541-4bb7-be08-8dad31b2ae08, runId = f03c790e-566a-43ed-bc7a-c3fee60f0db2]] WARN  org.apache.kafka.clients.admin.AdminClientConfig - These configurations '[key.deserializer, value.deserializer, enable.auto.commit, max.poll.records, auto.offset.reset]' were supplied but are not used yet.
+2025-12-19 17:24:12 [stream execution thread for [id = f25bc347-6541-4bb7-be08-8dad31b2ae08, runId = f03c790e-566a-43ed-bc7a-c3fee60f0db2]] INFO  org.apache.spark.SparkContext - Starting job: start at SparkProcessingApp.scala:51
+2025-12-19 17:24:12 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Got job 0 (start at SparkProcessingApp.scala:51) with 3 output partitions
+2025-12-19 17:24:12 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Final stage: ResultStage 0 (start at SparkProcessingApp.scala:51)
+2025-12-19 17:24:12 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Parents of final stage: List()
+2025-12-19 17:24:12 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Missing parents: List()
+2025-12-19 17:24:12 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting ResultStage 0 (MapPartitionsRDD[3] at start at SparkProcessingApp.scala:51), which has no missing parents
+2025-12-19 17:24:12 [dag-scheduler-event-loop] INFO  org.apache.spark.SparkContext - Created broadcast 0 from broadcast at DAGScheduler.scala:1585
+2025-12-19 17:24:12 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Submitting 3 missing tasks from ResultStage 0 (MapPartitionsRDD[3] at start at SparkProcessingApp.scala:51) (first 15 tasks are for partitions Vector(0, 1, 2))
+2025-12-19 17:24:12 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Adding task set 0.0 with 3 tasks resource profile 0
+2025-12-19 17:24:12 [dispatcher-event-loop-2] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 0.0 in stage 0.0 (TID 0) (Kudadiri7204.mshome.net, executor driver, partition 0, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 17:24:12 [dispatcher-event-loop-2] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 1.0 in stage 0.0 (TID 1) (Kudadiri7204.mshome.net, executor driver, partition 1, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 17:24:12 [dispatcher-event-loop-2] INFO  org.apache.spark.scheduler.TaskSetManager - Starting task 2.0 in stage 0.0 (TID 2) (Kudadiri7204.mshome.net, executor driver, partition 2, PROCESS_LOCAL, 10235 bytes) 
+2025-12-19 17:24:12 [Executor task launch worker for task 2.0 in stage 0.0 (TID 2)] INFO  org.apache.spark.executor.Executor - Running task 2.0 in stage 0.0 (TID 2)
+2025-12-19 17:24:12 [Executor task launch worker for task 1.0 in stage 0.0 (TID 1)] INFO  org.apache.spark.executor.Executor - Running task 1.0 in stage 0.0 (TID 1)
+2025-12-19 17:24:12 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Running task 0.0 in stage 0.0 (TID 0)
+2025-12-19 17:24:16 [Executor task launch worker for task 1.0 in stage 0.0 (TID 1)] INFO  org.apache.spark.executor.Executor - Finished task 1.0 in stage 0.0 (TID 1). 889448 bytes result sent to driver
+2025-12-19 17:24:16 [Executor task launch worker for task 0.0 in stage 0.0 (TID 0)] INFO  org.apache.spark.executor.Executor - Finished task 0.0 in stage 0.0 (TID 0). 835245 bytes result sent to driver
+2025-12-19 17:24:16 [Executor task launch worker for task 2.0 in stage 0.0 (TID 2)] INFO  org.apache.spark.executor.Executor - Finished task 2.0 in stage 0.0 (TID 2). 895063 bytes result sent to driver
+2025-12-19 17:24:16 [task-result-getter-1] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 1.0 in stage 0.0 (TID 1) in 3881 ms on Kudadiri7204.mshome.net (executor driver) (1/3)
+2025-12-19 17:24:16 [task-result-getter-0] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 0.0 in stage 0.0 (TID 0) in 4122 ms on Kudadiri7204.mshome.net (executor driver) (2/3)
+2025-12-19 17:24:16 [task-result-getter-2] INFO  org.apache.spark.scheduler.TaskSetManager - Finished task 2.0 in stage 0.0 (TID 2) in 4497 ms on Kudadiri7204.mshome.net (executor driver) (3/3)
+2025-12-19 17:24:16 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - ResultStage 0 (start at SparkProcessingApp.scala:51) finished in 4.911 s
+2025-12-19 17:24:17 [task-result-getter-2] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Removed TaskSet 0.0, whose tasks have all completed, from pool 
+2025-12-19 17:24:17 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 is finished. Cancelling potential speculative or zombie tasks for this job
+2025-12-19 17:24:17 [dag-scheduler-event-loop] INFO  org.apache.spark.scheduler.TaskSchedulerImpl - Killing all running tasks in stage 0: Stage finished
+2025-12-19 17:24:17 [stream execution thread for [id = f25bc347-6541-4bb7-be08-8dad31b2ae08, runId = f03c790e-566a-43ed-bc7a-c3fee60f0db2]] INFO  org.apache.spark.scheduler.DAGScheduler - Job 0 finished: start at SparkProcessingApp.scala:51, took 5.039562 s
+2025-12-19 17:25:11 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Invoking stop() from shutdown hook
+2025-12-19 17:25:11 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - SparkContext is stopping with exitCode 0.
+2025-12-19 17:25:12 [dispatcher-event-loop-0] INFO  org.apache.spark.scheduler.OutputCommitCoordinator$OutputCommitCoordinatorEndpoint - OutputCommitCoordinator stopped!
+2025-12-19 17:25:12 [shutdown-hook-0] INFO  org.apache.spark.SparkContext - Successfully stopped SparkContext
